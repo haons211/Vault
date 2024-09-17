@@ -37,6 +37,29 @@ const routes: Routes = [
 export class AppRoutingModule { }
 
 ```
+
+```html
+
+<!-- app.component.html -->
+<nav>
+  <a routerLink="">Home</a> <!-- Liên kết đến route trang chủ -->
+  <a routerLink="/details">Details</a> <!-- Liên kết đến route chi tiết -->
+</nav>
+
+<router-outlet></router-outlet> <!-- Component tương ứng với route sẽ hiển thị tại đây -->
+
+```
+
+
+
+
+
+
+
+
+
+
+
 # References
 
 
