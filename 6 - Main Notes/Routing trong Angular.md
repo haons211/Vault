@@ -16,7 +16,7 @@ ng new my-app --routing
      Angular Cli thường có tùy chọn để tự động tạo module routing .
      <router-outlet> là nơi hiển thị các component tương ứng với từng route
 
-
+    Định nghĩa các Routes
 ```typescript 
 
 // app-routing.module.ts
@@ -38,6 +38,8 @@ export class AppRoutingModule { }
 
 ```
 
+
+     Sử dụng <router-outlet> trong template
 ```html
 
 <!-- app.component.html -->
