@@ -9,7 +9,7 @@ Tags: [[Learning]] [[Front-end]] [[Angular]]
 
 
    Step 1:     Create file routes.ts trong folder app
-   Step 2: 
+   Step 2:     Open main.ts   . Import  #provideRouter   để enable routing, and update boot
 
 # References
 
