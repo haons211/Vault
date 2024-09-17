@@ -11,8 +11,13 @@
             "id": "5ca5735c58f0ac14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Quan niệm về vật chất trước khi phát hiện ra tia X và phóng xạ..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 527.5
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Main Notes/Quan niệm về vật chất trước khi phát hiện ra tia X và phóng xạ..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Main Notes/Quan niệm về vật chất trước khi phát hiện ra tia X và phóng xạ..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Main Notes/Quan niệm về vật chất trước khi phát hiện ra tia X và phóng xạ..md"
+              }
             }
           },
           {
@@ -152,14 +160,16 @@
   },
   "active": "5ca5735c58f0ac14",
   "lastOpenFiles": [
+    "6 - Main Notes/Service và Dependency Injection trong Angular.md",
+    "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
+    "6 - Main Notes/Definition of Component in React.md",
+    "6 - Main Notes/Các loại Hooks thường gặp trong React.md",
+    "6 - Main Notes/Các loại Component trong Angular.md",
     "1 - Rough Notes/Noting 17Sep.md",
     "6 - Main Notes/hao nguyen.md",
     "1 - Rough Notes/React Basics.md",
     "1 - Rough Notes/Testing sync.md",
-    "6 - Main Notes/Service và Dependency Injection trong Angular.md",
     "3 - Tags/Angular.md",
-    "6 - Main Notes/Các loại Component trong Angular.md",
-    "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
     "6 - Main Notes/Bối cảnh ra đời định nghĩa vât chất của Lenin.md",
     "6 - Main Notes/Vật chất của Lenin.md",
     "6 - Main Notes/Tại sao component lại quan trọng.md",
@@ -181,7 +191,6 @@
     "6 - Main Notes/Vật chất qua từng thời kì.md",
     "4 - Indexs",
     "6 - Main Notes",
-    "6 - Main Notes/Các loại Hooks thường gặp trong React.md",
     "3 - Tags/AWS.md",
     "3 - Tags/Architect.md",
     "3 - Tags/Philosophy.md",
@@ -189,7 +198,6 @@
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
     "3 - Tags/Front-end.md",
-    "5 - Templates/Full Note.md",
-    "5 - Templates/Name Material.md"
+    "5 - Templates/Full Note.md"
   ]
 }
