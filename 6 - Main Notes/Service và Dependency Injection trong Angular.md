@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Front-end]] [[Angular]]
+Tags: [[Front-end]] [[Angular]] [[Learning]]
 
 # Service và Dependency Injection trong Angular
           Service là các class trong Angular , chứa logic hoặc dữ liệu mà nhiều component có thể sử dụng lại. 
