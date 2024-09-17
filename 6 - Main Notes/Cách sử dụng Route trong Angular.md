@@ -9,8 +9,25 @@ Tags: [[Learning]] [[Front-end]] [[Angular]]
 
 
    Step 1:     Create file routes.ts trong folder app
+   Step 2:   Define path for route 
+   ```typescript 
+   const routeConfig: Routes = [
+  {
+    path: '',
+    component: HomeComponent,
+    title: 'Home page'
+  },
+  {
+    path: 'details/:id',
+    component: DetailsComponent,
+    title: 'Home details'
+  }
+];
+
+export default routeConfig;
+```
    Step 2:     Open main.ts   . Import  #provideRouter   để enable routing, and update bootstrap
-   
+   St
 
 # References
 
