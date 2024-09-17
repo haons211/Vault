@@ -6,6 +6,7 @@ Status:
 Tags: [[Front-end]] [[Angular]] [[Learning]]
 # Routing trong Angular
 ```bash
+ng new my-app --routing
 
 ```
 
@@ -15,6 +16,27 @@ Tags: [[Front-end]] [[Angular]] [[Learning]]
      Angular Cli thường có tùy chọn để tự động tạo module routing .
      <router-outlet> là nơi hiển thị các component tương ứng với từng route
 
+
+```typescript 
+
+// app-routing.module.ts
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
+import { HomeComponent } from './home/home.component';
+import { DetailsComponent } from './details/details.component';
+
+const routes: Routes = [
+  { path: '', component: HomeComponent },          // Route cho trang chủ
+  { path: 'details', component: DetailsComponent } // Route cho trang chi tiết
+];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
+
+```
 # References
 
 
