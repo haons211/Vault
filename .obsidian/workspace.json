@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99ec711c9a698b8e",
+        "id": "a58ab762fd178385",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca5735c58f0ac14",
+            "id": "d104af95fc290b4e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -149,7 +149,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca5735c58f0ac14",
+  "active": "d104af95fc290b4e",
   "lastOpenFiles": [
     "3 - Tags/Front-end.md",
     "6 - Main Notes/Vật chất qua từng thời kì.md",
