@@ -26,8 +26,8 @@ Tags: [[Learning]] [[Front-end]] [[Angular]]
 
 export default routeConfig;
 ```
-   Step 2:     Open main.ts   . Import  #provideRouter   để enable routing, and update bootstrap
-   St
+   Step 3:     Open main.ts   . Import  #provideRouter , #routeConfig   để enable routing, and update bootstrap
+   
 
 # References
 
