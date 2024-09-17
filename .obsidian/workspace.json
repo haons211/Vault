@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Service và Dependency Injection trong Angular.md",
+                "file": "1 - Rough Notes/Noting 17Sep.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Service và Dependency Injection trong Angular.md",
+                "file": "1 - Rough Notes/Noting 17Sep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Service và Dependency Injection trong Angular.md",
+                "file": "1 - Rough Notes/Noting 17Sep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Service và Dependency Injection trong Angular.md"
+                "file": "1 - Rough Notes/Noting 17Sep.md"
               }
             }
           },
@@ -157,14 +157,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46b5bc8715269d41",
+  "active": "5ca5735c58f0ac14",
   "lastOpenFiles": [
+    "1 - Rough Notes/React Basics.md",
+    "1 - Rough Notes/Testing sync.md",
+    "6 - Main Notes/Service và Dependency Injection trong Angular.md",
     "3 - Tags/Angular.md",
     "6 - Main Notes/Các loại Component trong Angular.md",
-    "6 - Main Notes/Service và Dependency Injection trong Angular.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
     "1 - Rough Notes/Noting 17Sep.md",
-    "1 - Rough Notes/Testing sync.md",
     "6 - Main Notes/Bối cảnh ra đời định nghĩa vât chất của Lenin.md",
     "6 - Main Notes/Vật chất của Lenin.md",
     "6 - Main Notes/Tại sao component lại quan trọng.md",
@@ -196,7 +197,6 @@
     "3 - Tags/Front-end.md",
     "5 - Templates/Full Note.md",
     "5 - Templates/Name Material.md",
-    "1 - Rough Notes/React Basics.md",
     "1 - Rough Notes/AI Sharing talking.md"
   ]
 }
