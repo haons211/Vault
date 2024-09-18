@@ -24,7 +24,7 @@ Tags:
      -  The status bar : nơi hiện thông báo
 
 ### 1.2 Basic Game Object Manipulation and Transformation
-- GameObject là components nền tảng trong mọi Unity game project . 
+- GameObject là components nền tảng trong mọi Unity game project . Mọi đối tượng trong game đều là GameObject từ chữ , ánh sáng, camera cho đến các hiệu ứng đặc biệt.
 # References
 
 
