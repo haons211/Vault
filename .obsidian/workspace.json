@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Untitled.md",
+                "file": "3 - Tags/Database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Tags/Untitled.md",
+                "file": "3 - Tags/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Tags/Untitled.md",
+                "file": "3 - Tags/Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Tags/Untitled.md"
+                "file": "3 - Tags/Database.md"
               }
             }
           },
@@ -169,7 +169,7 @@
   "active": "b67546be77a4396e",
   "lastOpenFiles": [
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
-    "3 - Tags/Untitled.md",
+    "3 - Tags/Database.md",
     "1 - Rough Notes/Noting 17Sep.md",
     "5 - Templates/Name Material.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
