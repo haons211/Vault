@@ -55,8 +55,8 @@ Tags:
 -
 ### 1.4 Scence Creation and Management
 ##### What are scenes in Unity ?
- -  Scences are where you work with content in Unity. They contains all or part of a gảm
-
+ -  Scences are where you work with content in Unity. They contains all or part of a game or application
+##### 
 
 
 # References
