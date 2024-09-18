@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "file:Learning",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -25,13 +25,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.3,
-  "nodeSizeMultiplier": 1.9375,
+  "nodeSizeMultiplier": 1.784375,
   "lineSizeMultiplier": 0.661458333333333,
   "collapse-forces": false,
   "centerStrength": 0.46875,
   "repelStrength": 20,
   "linkStrength": 0.765625,
   "linkDistance": 62,
-  "scale": 0.31214753848498666,
+  "scale": 0.2080983589899911,
   "close": false
 }
