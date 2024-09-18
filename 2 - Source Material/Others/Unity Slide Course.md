@@ -65,7 +65,8 @@ Tags:
      - Scence Switching : SceneManager. LoadScene()
 ##### Scene Lighting and Camera Setup 
 - Three main types are point , spot , directional.
-     -  Point : like a light bulb in the world . The light is brighter up close . You can you them để mô phỏng 1 vụ nổ   
+     -  Point : like a light bulb in the world . The light is brighter up close . You can you them để mô phỏng 1 vụ nổ 
+     -  Spot : Ánh đèn, đèn rọi . Tất cả các tia sáng từ 
 # References
 
 
