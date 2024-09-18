@@ -14,7 +14,7 @@ tags: [[Database]] [[Learning]]]
 #### NGUYÊN LÍ 3 + 2
 
  - Cách cũ : Cơ bản + where (giúp lọc dữ liệu)
- - Cách mới 
+ - Cách mới :  Tam giác để học mọi thứ trong database : Pages/Block , 
 
 #### CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
 
