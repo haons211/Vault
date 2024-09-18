@@ -36,6 +36,7 @@ Tags:
 - Mỗi đối tượng trong Unity đều có ví tri , nhưng vị trí ấy cần hệ tham chiếu . Trong Unity có 2 loại coordinate:
      -  World coodinates : Vị trí đối tượng đặt trong toàn thế giới
      -  Local coodinates : Ví trí đối tượng nằm trong lớp cha của nó.
+### 1.3 Understanding Unity's 
 # References
 
 
