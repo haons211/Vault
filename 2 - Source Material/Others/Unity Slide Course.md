@@ -38,7 +38,8 @@ Tags:
      -  Local coodinates : Ví trí đối tượng nằm trong lớp cha của nó.
 ### 1.3 Understanding Unity's Component System
 ##### What is Unity's Component System ?
-- là core của Unity hướng dữ l
+- Entity là core của Unity công nghệ hướng dữ liệu . ESC có 3 nguyên tắc :
+- E
 # References
 
 
