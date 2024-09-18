@@ -64,6 +64,8 @@ Tags:
      - Unloading Scences : UnloadScene() 
      - Scence Switching : SceneManager. LoadScene()
 ##### Scene Lighting and Camera Setup 
+- Three main types are point , spot , directional.
+     -   
 # References
 
 
