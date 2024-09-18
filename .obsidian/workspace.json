@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "489fe96977356bdd",
+        "id": "db2645d24c5526c8",
         "type": "tabs",
         "children": [
           {
-            "id": "672b9af52e6b91c3",
+            "id": "667d216a1fb4b9ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -149,7 +149,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "672b9af52e6b91c3",
+  "active": "667d216a1fb4b9ea",
   "lastOpenFiles": [
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "6 - Main Notes/2024-09-18.md",
