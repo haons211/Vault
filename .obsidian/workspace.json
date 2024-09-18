@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/SWD391.md",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/SWD391.md",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/SWD391.md",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/SWD391.md"
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "e4560efd4c7a4fb3",
+            "id": "b028a0bd731a1a1d",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -168,11 +168,13 @@
   },
   "active": "200682e615f68cfc",
   "lastOpenFiles": [
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
+    "7 - Daily Planner/2024-09-18.md",
     "6 - Main Notes/Pasted image 20240918164155.png",
     "5 - Templates/FPT Course Name.md",
     "5 - Templates/Full Note.md",
     "5 - Templates/Name Material.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/SWD391.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
@@ -190,7 +192,6 @@
     "1 - Rough Notes/PRN211 - Generic & Collection.md",
     "1 - Rough Notes/Các level khi tham gia a Quang.md",
     "1 - Rough Notes/PRN212 - Collection and Generic.md",
-    "7 - Daily Planner/2024-09-18.md",
     "7 - Daily Planner",
     "6 - Main Notes/2024-09-18.md",
     "6 - Main Notes/Routing trong Angular.md",
