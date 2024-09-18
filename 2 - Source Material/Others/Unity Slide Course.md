@@ -68,6 +68,12 @@ Tags:
      -  Point : like a light bulb in the world . The light is brighter up close . You can you them để mô phỏng 1 vụ nổ 
      -  Spot : Ánh đèn, đèn rọi . Tất cả các tia sáng từ 1 single point
      - Diractional : tất cả tia sáng đều song song, thắp sáng mọi thứ theo cùng 1 cách . tương tự như mặt trời cùng thế giới
+##### Player Configuration
+- Per-Platform Settings
+    -  Resolution and Presentation
+    - Icon
+    - Splash Image
+    - 
 # References
 
 
