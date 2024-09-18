@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "89f360bba7124d65",
+        "id": "11e87cbd90fdc6bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b67546be77a4396e",
+            "id": "200682e615f68cfc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 369.5
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "90c1b30322c75e8b",
+            "id": "9b44535463436758",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -147,18 +147,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b67546be77a4396e",
+  "active": "e5381bf0f5ab0143",
   "lastOpenFiles": [
+    "Chưa đặt tên",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "6 - Main Notes/Goog.md",
     "3 - Tags/Database.md",
@@ -185,7 +186,6 @@
     "6 - Main Notes/Service và Dependency Injection trong Angular.md",
     "6 - Main Notes/Quan niệm về vật chất trước khi phát hiện ra tia X và phóng xạ..md",
     "6 - Main Notes/Definition of Component in React.md",
-    "6 - Main Notes/Các loại Hooks thường gặp trong React.md",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
