@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md",
+                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md",
+                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md",
+                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md"
+                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "aa4dc0aa7af29534",
+            "id": "ccb5599c978af583",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -168,6 +168,9 @@
   },
   "active": "667d216a1fb4b9ea",
   "lastOpenFiles": [
+    "3 - Tags/Front-end.md",
+    "3 - Tags/Lenin.md",
+    "1 - Rough Notes/Noting 17Sep.md",
     "1 - Rough Notes/PRN211 - Generic & Collection.md",
     "1 - Rough Notes/Các level khi tham gia a Quang.md",
     "1 - Rough Notes/PRN212 - Collection and Generic.md",
@@ -176,7 +179,6 @@
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "6 - Main Notes/2024-09-18.md",
     "6 - Main Notes/Routing trong Angular.md",
-    "3 - Tags/Front-end.md",
     "6 - Main Notes/Vật chất qua từng thời kì.md",
     "6 - Main Notes/Vật chất của Lenin.md",
     "6 - Main Notes/Tại sao component lại quan trọng.md",
@@ -186,7 +188,6 @@
     "6 - Main Notes/Definition of Component in React.md",
     "6 - Main Notes/Các loại Hooks thường gặp trong React.md",
     "6 - Main Notes/Các loại Component trong Angular.md",
-    "1 - Rough Notes/Noting 17Sep.md",
     "6 - Main Notes/hao nguyen.md",
     "1 - Rough Notes/React Basics.md",
     "1 - Rough Notes/Testing sync.md",
@@ -202,7 +203,6 @@
     "2 - Source Material/Images",
     "2 - Source Material/Others/link.md",
     "2 - Source Material/Others",
-    "2 - Source Material/Articles/Thales Philosophies.md",
     "2 - Source Material/Articles",
     "2 - Source Material/Papers",
     "2 - Source Material",
