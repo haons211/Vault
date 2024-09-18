@@ -4,7 +4,7 @@ Tác giả :  Trần Quốc Huy - Databases
 
 Link :  https://www.youtube.com/watch?v=xC1662uBym8
 
-tags: [[Database]] [[Learning]]]
+tags: [[Database]], [[Learning]]]
 # Note
 
 
