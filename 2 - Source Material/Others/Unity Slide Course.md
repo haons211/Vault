@@ -6,7 +6,7 @@ Teacher :
 Course Material : 
 
 Tags: 
-
+ Điểm chung  : - Các method thông thường sẽ viết hoa tất cả các chữ : ví dụ
 
 # Unity Slide Course
 
