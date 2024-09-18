@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -166,7 +167,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "200682e615f68cfc",
+  "active": "e5381bf0f5ab0143",
   "lastOpenFiles": [
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "2 - Source Material/Others/Unity Slide Course.md",
