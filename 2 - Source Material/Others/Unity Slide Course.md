@@ -34,7 +34,8 @@ Tags:
  - Unity uses a left-handed coordinate system áp dụng cho nhiều chương trình 3D
 ##### Local vs world coordinate space
 - Mỗi đối tượng trong Unity đều có ví tri , nhưng vị trí ấy cần hệ tham chiếu . Trong Unity có 2 loại coordinate:
-   
+     -  World coodinates : Vị trí đối tượng đặt trong toàn thế giới
+     -  Local coodinates : Ví trí đối tượng nằm trong lớp cha của nó.
 # References
 
 
