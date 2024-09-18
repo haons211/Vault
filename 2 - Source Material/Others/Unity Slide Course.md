@@ -32,6 +32,8 @@ Tags:
  - Là nơi lưu trữ các thuộc tính của GameObject như Position, Rotation, Scale and các parenting state.
 ##### Understanding 3D coordinate 
  - Unity uses a left-handed coordinate system áp dụng cho nhiều chương trình 3D
+##### Local vs world coordinate space
+- Mỗi đối tượng trong Unity đều có ví tri
 # References
 
 
