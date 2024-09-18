@@ -23,7 +23,8 @@ Tags:
      - Thr Project window : Hiển thị thư viện asset có trong Poject của bạn
      -  The status bar : nơi hiện thông báo
 
-### 1.2 Basic Game Object Manipulation and Trans
+### 1.2 Basic Game Object Manipulation and Transformation
+- GameObject là components nền tảng trong mọi Unity game project . 
 # References
 
 
