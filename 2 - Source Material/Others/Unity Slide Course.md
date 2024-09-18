@@ -16,7 +16,7 @@ Tags:
 -  Unity Inteface Component:
      -  A Toolbar : cung cấp truy cập tới account và cloud service
      -  The Hierarchy window : trình bày phân cấp của tất cả đối  tượng game (game Object)
-     -  The Game view : mô phỏng góc nhìn cuối cùng của game khi hoàn thiện. Khả năng play,,
+     -  The Game view : mô phỏng góc nhìn cuối cùng của game khi hoàn thiện. Khả năng play, pause, ...
      -  The Science view : cho phép edit your Scene. Có các tool để moving, rotating , camera control
      - Overlay :
      - The Inspector window : cho phép bạn xem và chỉn sửa các thuộc tính cua GameObject bạn chọn hiện tại
