@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +157,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "edd83e0471ed30bd",
+  "active": "e5381bf0f5ab0143",
   "lastOpenFiles": [
+    "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "3 - Tags/Front-end.md",
     "3 - Tags/Lenin.md",
     "1 - Rough Notes/Noting 17Sep.md",
@@ -172,7 +168,6 @@
     "1 - Rough Notes/PRN212 - Collection and Generic.md",
     "7 - Daily Planner/2024-09-18.md",
     "7 - Daily Planner",
-    "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "6 - Main Notes/2024-09-18.md",
     "6 - Main Notes/Routing trong Angular.md",
     "6 - Main Notes/Vật chất qua từng thời kì.md",
