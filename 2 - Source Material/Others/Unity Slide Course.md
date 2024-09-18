@@ -42,7 +42,7 @@ Tags:
    - Entity : Là thực thể trong game : OOP
    -  Components: Là dữ liệu liên quan đến thực thể : DOP
    -  Systems: Cập nhập vị trí, trạng thái của Entity . Xử lí liên quan đến logic liên quan các trọng thái khác
-=>  GameObject ---- Component ---- Variable
+=>  GameObject ---- Component ---- Variable (1 gameObject có nhiều Component và bên trong Component ấy có thể chứa các giá trị d)
 # References
 
 
