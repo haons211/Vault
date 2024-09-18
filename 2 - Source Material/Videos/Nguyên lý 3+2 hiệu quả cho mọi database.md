@@ -9,7 +9,11 @@ tags: [[Database]] [[Learning]]]
 
 
 - Để hiểu toàn bộ database nguyên lí 3 + 2 : 3 nguyên lí , 2 cơ chế .
-- Áp dụng nguyên lí đó vào phát triển sự nghiệp.
+- Áp dụng nguyên lí đó vào phát triển sự nghiệp. 
+- Không cần nhảy việc mà vẫn tích lũy được kinh nghiệm .
+#### NGUYÊN LÍ 3 + 2
+
+#### CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
 
 
 
