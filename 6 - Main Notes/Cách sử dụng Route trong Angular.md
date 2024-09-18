@@ -7,7 +7,7 @@ Tags: [[Learning]] [[Front-end]] [[Angular]]
 
 # Cách sử dụng Route trong Angular
 
-
+cachách
    Step 1:     Create file routes.ts trong folder app Hảo
    Step 2:   Define path for route 
    ```typescript 
