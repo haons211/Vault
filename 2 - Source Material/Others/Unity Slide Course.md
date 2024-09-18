@@ -59,7 +59,10 @@ Tags:
 ##### Working with Scenes
 - Sence View cho việc visual editing , Hirrarchy panel cho việc structured of GameObject
 ##### Navigating Between Scenes
-- UnityEngine. SceneManagement provides functionalities for managing scence including 
+- UnityEngine. SceneManagement provides functionalities for managing scence including switching between them, adding/ removing scenes , and controlling their state .
+     - Loading Scenes
+     - Unloading Scences 
+     - Scence W
 
 # References
 
