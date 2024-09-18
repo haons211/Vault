@@ -10,6 +10,7 @@ Tags: [[Front-end]] [[Learning]] [[Angular]]
      Inputs là một cơ chế cho phép các component chia sẻ dữ liệu với nhau . Cụ thể, Inputs cho phép truyền dữ liệu từ component cha đến component con.
 
       @Input() là 1 cơ chế được định nghĩa trong Angular .Thường được dùng trong component con . Khi một thuộc tính được gán @Input() , component cha có thể truyền giá trị cho thuộc tính đó thông qua binding dữ liệu trong template của component cha
+      h
 
 
 # Ví dụ

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md",
+                "file": "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md",
+                "file": "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md",
+                "file": "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Noting 17Sep.md"
+                "file": "6 - Main Notes/Định nghĩa Inputs trong Angular.md"
               }
             }
           },
@@ -168,10 +168,14 @@
   },
   "active": "e4cbeac4bc6e0352",
   "lastOpenFiles": [
+    "6 - Main Notes/Các loại Component trong Angular.md",
+    "1 - Rough Notes/Philosopy.md",
+    "1 - Rough Notes/BrainStorm.md",
+    "1 - Rough Notes/AI Sharing talking.md",
+    "1 - Rough Notes/Noting 17Sep.md",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "3 - Tags/Front-end.md",
     "3 - Tags/Lenin.md",
-    "1 - Rough Notes/Noting 17Sep.md",
     "1 - Rough Notes/PRN211 - Generic & Collection.md",
     "1 - Rough Notes/Các level khi tham gia a Quang.md",
     "1 - Rough Notes/PRN212 - Collection and Generic.md",
@@ -187,21 +191,17 @@
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
     "6 - Main Notes/Definition of Component in React.md",
     "6 - Main Notes/Các loại Hooks thường gặp trong React.md",
-    "6 - Main Notes/Các loại Component trong Angular.md",
     "6 - Main Notes/hao nguyen.md",
     "1 - Rough Notes/React Basics.md",
     "1 - Rough Notes/Testing sync.md",
     "3 - Tags/Angular.md",
-    "6 - Main Notes/Bối cảnh ra đời định nghĩa vât chất của Lenin.md",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
-    "2 - Source Material/Books/Software Modeling (gomma).md",
     "2 - Source Material/Books",
     "2 - Source Material/Images/Pasted image 20240910001123.png",
     "2 - Source Material/Images/Pasted image 20240910001204.png",
     "2 - Source Material/Images/Pasted image 20240910001136.png",
     "2 - Source Material/Images",
-    "2 - Source Material/Others/link.md",
     "2 - Source Material/Others",
     "2 - Source Material/Articles",
     "2 - Source Material/Papers",
