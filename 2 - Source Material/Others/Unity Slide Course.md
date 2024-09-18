@@ -40,8 +40,8 @@ Tags:
 ##### What is Unity's Component System ?
 - Entity là core của Unity công nghệ hướng dữ liệu . ESC có 3 nguyên tắc :
    - Entity : Là thực thể trong game : OOP
-   -  Components: Là dữ liệu liên quan đ : DOP
-   -  Sý
+   -  Components: Là dữ liệu liên quan đến thực thể : DOP
+   -  Systems: Cập nhập vị trí, trạng thái của Entity . Xử lí liên quan đến logic liên quan các trọng thái khác
 # References
 
 
