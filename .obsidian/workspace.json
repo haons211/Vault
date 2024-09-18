@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9e9700d04a6d756",
+        "id": "89f360bba7124d65",
         "type": "tabs",
         "children": [
           {
-            "id": "413fdc12cf8332af",
+            "id": "b67546be77a4396e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
+                "file": "3 - Tags/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
+                "file": "3 - Tags/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
+                "file": "3 - Tags/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md"
+                "file": "3 - Tags/Untitled.md"
               }
             }
           },
@@ -166,16 +166,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "413fdc12cf8332af",
+  "active": "b67546be77a4396e",
   "lastOpenFiles": [
-    "5 - Templates/Name Material.md",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
+    "3 - Tags/Untitled.md",
+    "1 - Rough Notes/Noting 17Sep.md",
+    "5 - Templates/Name Material.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
     "6 - Main Notes/Các loại Component trong Angular.md",
     "1 - Rough Notes/Philosopy.md",
     "1 - Rough Notes/BrainStorm.md",
     "1 - Rough Notes/AI Sharing talking.md",
-    "1 - Rough Notes/Noting 17Sep.md",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "3 - Tags/Front-end.md",
     "3 - Tags/Lenin.md",
@@ -194,7 +195,6 @@
     "6 - Main Notes/Definition of Component in React.md",
     "6 - Main Notes/Các loại Hooks thường gặp trong React.md",
     "6 - Main Notes/hao nguyen.md",
-    "1 - Rough Notes/React Basics.md",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
