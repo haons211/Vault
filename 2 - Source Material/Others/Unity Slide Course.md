@@ -58,7 +58,8 @@ Tags:
  -  Scences are where you work with content in Unity. They contains all or part of a game or application
 ##### Working with Scenes
 - Sence View cho việc visual editing , Hirrarchy panel cho việc structured of GameObject
-
+##### Navigating Between Scenes
+- UnityEngine. SceneManagement provides functionalities for managing scence including 
 
 # References
 
