@@ -30,7 +30,8 @@ Tags:
 - GameObject con chuyển đồng, xoay, scale chính xác như những gì cha nó đã làm . GameObject con có  thể có thể có con khác . nhưng tất cả chỉ duy nhất có một parent GameObject
 ##### Transform 
  - Là nơi lưu trữ các thuộc tính của GameObject như Position, Rotation, Scale and các parenting state.
- ##### Understandi
+##### Understanding 3D coordinate 
+ - Unity uses a left-handed coordinate system áp dụng cho nh
 # References
 
 
