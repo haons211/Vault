@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-18.md",
+                "file": "Daily Planner/2024-09-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-18.md",
+                "file": "Daily Planner/2024-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-18.md",
+                "file": "Daily Planner/2024-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-18.md"
+                "file": "Daily Planner/2024-09-18.md"
               }
             }
           },
@@ -169,7 +169,7 @@
   "active": "e5381bf0f5ab0143",
   "lastOpenFiles": [
     "Daily Planner",
-    "2024-09-18.md",
+    "Daily Planner/2024-09-18.md",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "6 - Main Notes/2024-09-18.md",
     "6 - Main Notes/Routing trong Angular.md",
