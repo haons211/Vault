@@ -73,7 +73,7 @@ Tags:
     -  Resolution and Presentation
     - Icon
     - Splash Image
-    - 
+    - Other Setting
 # References
 
 
