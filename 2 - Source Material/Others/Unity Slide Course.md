@@ -27,7 +27,8 @@ Tags:
 - GameObject là components nền tảng trong mọi Unity game project . Mọi đối tượng trong game đều là GameObject từ chữ , ánh sáng, camera cho đến các hiệu ứng đặc biệt. 
 ##### Hierarchy Panel - GameObjects - Nested
 -  GameObject cha có thể có nhiều GameObject con . Các GameObject con được tiếp nhận của thuộc tính của cha
-- GameObject con chuyển đồng, xoay, scale chính xác như những gì cha nó đã làm . GameObject con có  thể có 
+- GameObject con chuyển đồng, xoay, scale chính xác như những gì cha nó đã làm . GameObject con có  thể có thể có con khác . nhưng tất cả chỉ duy nhất có một parent GameObject
+
 # References
 
 
