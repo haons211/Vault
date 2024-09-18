@@ -47,7 +47,9 @@ Tags:
 ##### Comom Components in Unity 
 ![[Pasted image 20240919054916.png]]
 
-##### Advantag
+##### Advantages of Component- Based Design
+- Ease of deployment : Dễ dàng thay thế các version cũ đế sang version khác mà khong lỗi.
+- Reduced cost : 
 
 
 
