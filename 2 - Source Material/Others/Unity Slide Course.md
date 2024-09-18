@@ -44,6 +44,8 @@ Tags:
    -  Systems: Cập nhập vị trí, trạng thái của Entity . Xử lí liên quan đến logic liên quan các trọng thái khác
    - ![[Pasted image 20240919054742.png]]
 =>  GameObject ---- Component ---- Variable (1 gameObject có nhiều Component và bên trong Component ấy có thể chứa các giá trị để chỉnh sửa)
+##### Comom Components in Unity 
+![[Pasted image 20240919054916.png]]
 # References
 
 
