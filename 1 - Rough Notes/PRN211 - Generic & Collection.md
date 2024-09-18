@@ -25,7 +25,7 @@ swap(T a, T b)
 
 
       Icomparer<T> : cho 2 object cần phải so sánh , bạn phải định nghĩa cho nó để biết được so sánh theo cái nào .
-      Cơ chế Băm : Mỗi khi cho vào 1 value, thuật toán sẽ băm ra 1 key . Nếu trùng sẽ tiếp tục băm cho đến khi có 1
+      Cơ chế Băm : Mỗi khi cho vào 1 value, thuật toán sẽ băm ra 1 key . Nếu trùng sẽ tiếp tục băm cho đến khi có 1 key khác.
 # References
 
 
