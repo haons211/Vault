@@ -50,6 +50,9 @@ Tags:
 ##### Advantages of Component- Based Design
 - Ease of deployment : Dễ dàng thay thế các version cũ đế sang version khác mà khong lỗi.
 - Reduced cost : 
+- Ease of development:
+- Reusable
+- 
 
 
 
