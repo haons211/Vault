@@ -7,3 +7,8 @@ Link :  https://www.youtube.com/watch?v=xC1662uBym8
 tags: 
 # Note
 
+
+Để hiểu toàn bộ database nguyên lí 3 + 2 : 3 nguyên lí , 2 cơ chế
+
+
+

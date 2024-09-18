@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Database.md",
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Tags/Database.md",
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Tags/Database.md",
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Tags/Database.md"
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md"
               }
             }
           },
@@ -168,8 +169,8 @@
   },
   "active": "b67546be77a4396e",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "3 - Tags/Database.md",
+    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "1 - Rough Notes/Noting 17Sep.md",
     "5 - Templates/Name Material.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
