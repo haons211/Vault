@@ -11,8 +11,13 @@
             "id": "200682e615f68cfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md"
+              }
             }
           },
           {
@@ -157,9 +166,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e5381bf0f5ab0143",
+  "active": "200682e615f68cfc",
   "lastOpenFiles": [
-    "Chưa đặt tên",
+    "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
+    "8 - FPT Learning Note/8.7 Fall 2024",
+    "8 - FPT Learning Note",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "6 - Main Notes/Goog.md",
     "3 - Tags/Database.md",
@@ -195,8 +206,6 @@
     "2 - Source Material/Images",
     "2 - Source Material/Others",
     "2 - Source Material/Articles",
-    "2 - Source Material/Papers",
-    "2 - Source Material",
-    "4 - Indexs"
+    "2 - Source Material/Papers"
   ]
 }
