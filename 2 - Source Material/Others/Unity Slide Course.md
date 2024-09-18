@@ -20,7 +20,8 @@ Tags:
      -  The Science view : cho phép edit your Scene
      - Overlay :
      - The Inspector window : cho phép bạn xem và chỉn sửa các thuộc tính cua GameObject bạn chọn hiện tại
-     - Thr Project w
+     - Thr Project window : Hiển thị thư viện asset có trong Poject của bạn
+     -  The status bar : nơi hiện thông báo
 
 
 # References
