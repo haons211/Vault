@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db2645d24c5526c8",
+        "id": "21b2a4a3b763c371",
         "type": "tabs",
         "children": [
           {
-            "id": "667d216a1fb4b9ea",
+            "id": "e4cbeac4bc6e0352",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cachách",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +135,7 @@
             }
           },
           {
-            "id": "ccb5599c978af583",
+            "id": "09190f0a0db85171",
             "type": "leaf",
             "state": {
               "type": "timeline",
