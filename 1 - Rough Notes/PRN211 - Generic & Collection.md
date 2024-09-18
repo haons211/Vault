@@ -31,11 +31,10 @@ swap(T a, T b)
 ```C shark
 
          Hashtable hashTable = new HashTable();
-         hashTable.add("HE21313","Nguyeênễn V")
+         hashTable.add("HE21313","Nguyeênễn Vaăn A")
+         hashTable
          
-    
-```
-
+ 
 # References
 
 
