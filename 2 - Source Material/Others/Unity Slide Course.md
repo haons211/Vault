@@ -29,7 +29,7 @@ Tags:
 -  GameObject cha có thể có nhiều GameObject con . Các GameObject con được tiếp nhận của thuộc tính của cha
 - GameObject con chuyển đồng, xoay, scale chính xác như những gì cha nó đã làm . GameObject con có  thể có thể có con khác . nhưng tất cả chỉ duy nhất có một parent GameObject
 ##### Transform 
- - Là nơi lưu trữ các thuộc tính của GameObject như Position, Rotation, Scale 
+ - Là nơi lưu trữ các thuộc tính của GameObject như Position, Rotation, Scale and các parenting state.
 # References
 
 
