@@ -22,6 +22,10 @@ swap(T a, T b)
 }
 ```
 
+
+
+      Icomparer<T> : cho 2 object cần phải so sánh , bạn phải định nghĩa cho nó để biết được so sánh theo cái nào .
+      
 # References
 
 
