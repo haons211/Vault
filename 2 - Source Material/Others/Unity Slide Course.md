@@ -25,8 +25,7 @@ Tags:
 
 ### 1.2 Basic Game Object Manipulation and Transformation
 - GameObject là components nền tảng trong mọi Unity game project . Mọi đối tượng trong game đều là GameObject từ chữ , ánh sáng, camera cho đến các hiệu ứng đặc biệt. 
-
-- 
+-  GameObject cha có thể có nhiều GameObject con . Các GameObject con được tiếp nhận của thuộc tin
 # References
 
 
