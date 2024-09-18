@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
+                "file": "5 - Templates/Chưa đặt tên.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
+                "file": "5 - Templates/Chưa đặt tên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
+                "file": "5 - Templates/Chưa đặt tên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md"
+                "file": "5 - Templates/Chưa đặt tên.md"
               }
             }
           },
@@ -168,14 +168,16 @@
   },
   "active": "200682e615f68cfc",
   "lastOpenFiles": [
-    "8 - FPT Learning Note/8.7 Fall 2024/Chưa đặt tên.md",
+    "5 - Templates/Name Material.md",
+    "5 - Templates/Full Note.md",
+    "5 - Templates/Chưa đặt tên.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/SWD 391.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "6 - Main Notes/Goog.md",
     "3 - Tags/Database.md",
     "1 - Rough Notes/Noting 17Sep.md",
-    "5 - Templates/Name Material.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
     "6 - Main Notes/Các loại Component trong Angular.md",
     "1 - Rough Notes/Philosopy.md",
@@ -195,8 +197,6 @@
     "6 - Main Notes/Vật chất của Lenin.md",
     "6 - Main Notes/Tại sao component lại quan trọng.md",
     "6 - Main Notes/Service và Dependency Injection trong Angular.md",
-    "6 - Main Notes/Quan niệm về vật chất trước khi phát hiện ra tia X và phóng xạ..md",
-    "6 - Main Notes/Definition of Component in React.md",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
