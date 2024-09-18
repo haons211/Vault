@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Videos/Untitled.md",
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Videos/Untitled.md",
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Videos/Untitled.md",
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Videos/Untitled.md"
+                "file": "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md"
               }
             }
           },
@@ -168,7 +168,8 @@
   },
   "active": "413fdc12cf8332af",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/Untitled.md",
+    "5 - Templates/Name Material.md",
+    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
     "6 - Main Notes/Các loại Component trong Angular.md",
     "1 - Rough Notes/Philosopy.md",
@@ -194,7 +195,6 @@
     "6 - Main Notes/Các loại Hooks thường gặp trong React.md",
     "6 - Main Notes/hao nguyen.md",
     "1 - Rough Notes/React Basics.md",
-    "1 - Rough Notes/Testing sync.md",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
