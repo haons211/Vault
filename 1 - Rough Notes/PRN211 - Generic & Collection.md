@@ -30,7 +30,9 @@ swap(T a, T b)
        
 ```C shark
 
-         Hashtable hashTable = new 
+         Hashtable hashTable = new HashTable();
+         hashTable.add("HE21313","Nguyeênễn V")
+         
     
 ```
 
