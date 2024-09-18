@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Daily Planner/2024-09-18.md",
+                "file": "1 - Rough Notes/PRN212 - Collection and Generic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 - Daily Planner/2024-09-18.md",
+                "file": "1 - Rough Notes/PRN212 - Collection and Generic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 - Daily Planner/2024-09-18.md",
+                "file": "1 - Rough Notes/PRN212 - Collection and Generic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 - Daily Planner/2024-09-18.md"
+                "file": "1 - Rough Notes/PRN212 - Collection and Generic.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "2eb5226bcfb1c558",
+            "id": "aa4dc0aa7af29534",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,10 +166,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e5381bf0f5ab0143",
+  "active": "667d216a1fb4b9ea",
   "lastOpenFiles": [
-    "7 - Daily Planner",
     "7 - Daily Planner/2024-09-18.md",
+    "1 - Rough Notes/PRN212 - Collection and Generic.md",
+    "7 - Daily Planner",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "6 - Main Notes/2024-09-18.md",
     "6 - Main Notes/Routing trong Angular.md",
@@ -205,7 +206,6 @@
     "2 - Source Material",
     "6 - Main Notes/Props and State.md",
     "4 - Indexs",
-    "6 - Main Notes",
     "3 - Tags/AWS.md"
   ]
 }
