@@ -15,8 +15,9 @@ Tags:
 -  Layout of Unity : Được thiết kế linh hoạt , thân thiệt với người dùng , co thể custom được dựa theo drag hoặc rearrange window
 -  Unity Inteface Component:
      -  A Toolbar : cung cấp truy cập tới account và cloud service
-     -  The Hierarchy window : trình bày phân cấp của tất cả đối  tượng game (game Object
-     - The g)
+     -  The Hierarchy window : trình bày phân cấp của tất cả đối  tượng game (game Object)
+     -  The Game view : mô phỏng góc nhìn cuối cùng của game khi hoàn thiện
+     -  The Science view : cho phép edit your Scene
 
 
 # References
