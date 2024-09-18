@@ -33,7 +33,8 @@ Tags:
 ##### Understanding 3D coordinate 
  - Unity uses a left-handed coordinate system áp dụng cho nhiều chương trình 3D
 ##### Local vs world coordinate space
-- Mỗi đối tượng trong Unity đều có ví tri
+- Mỗi đối tượng trong Unity đều có ví tri , nhưng vị trí ấy cần hệ tham chiếu . Trong Unity có 2 loại coordinate:
+   
 # References
 
 
