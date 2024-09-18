@@ -12,11 +12,13 @@ Tags:
     Vấn đề về hiệu xuất do . Do chuyển từ Reference sang Primitive
 {}
 
-```C shark
+```Csharp
 swap(T a, T b)
 {
-
-
+   T t;
+   t = a;
+   a = b;
+   b = t;
 }
 ```
 
