@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Các level khi tham gia a Quang.md",
+                "file": "1 - Rough Notes/PRN211 - Generic & Collection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Các level khi tham gia a Quang.md",
+                "file": "1 - Rough Notes/PRN211 - Generic & Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Các level khi tham gia a Quang.md",
+                "file": "1 - Rough Notes/PRN211 - Generic & Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Các level khi tham gia a Quang.md"
+                "file": "1 - Rough Notes/PRN211 - Generic & Collection.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "667d216a1fb4b9ea",
   "lastOpenFiles": [
-    "1 - Rough Notes/PRN212 - Collection and Generic.md",
     "1 - Rough Notes/Các level khi tham gia a Quang.md",
+    "1 - Rough Notes/PRN211 - Generic & Collection.md",
+    "1 - Rough Notes/PRN212 - Collection and Generic.md",
     "7 - Daily Planner/2024-09-18.md",
     "7 - Daily Planner",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
@@ -205,7 +206,6 @@
     "2 - Source Material/Articles",
     "2 - Source Material/Papers",
     "2 - Source Material",
-    "6 - Main Notes/Props and State.md",
     "4 - Indexs"
   ]
 }
