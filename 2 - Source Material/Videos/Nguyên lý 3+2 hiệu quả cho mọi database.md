@@ -13,6 +13,9 @@ tags: [[Database]] [[Learning]]]
 - Không cần nhảy việc mà vẫn tích lũy được kinh nghiệm .
 #### NGUYÊN LÍ 3 + 2
 
+ - Cách cũ : Cơ bản + where (giúp lọc dữ liệu)
+ - Cách mới 
+
 #### CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
 
 
