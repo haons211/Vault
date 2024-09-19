@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Quick Learn MLN.md",
+                "file": "3 - Tags/Angular.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Quick Learn MLN.md",
+                "file": "3 - Tags/Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Quick Learn MLN.md",
+                "file": "3 - Tags/Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Quick Learn MLN.md"
+                "file": "3 - Tags/Angular.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "d94ee674befc550d",
   "lastOpenFiles": [
+    "6 - Main Notes/Các loại Component trong Angular.md",
+    "3 - Tags/Angular.md",
     "1 - Rough Notes/Quick Learn MLN.md",
     "7 - Daily Planner/2024-09-19.md",
     "7 - Daily Planner/2024-09-18.md",
@@ -187,7 +189,6 @@
     "3 - Tags/Database.md",
     "1 - Rough Notes/Noting 17Sep.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
-    "6 - Main Notes/Các loại Component trong Angular.md",
     "1 - Rough Notes/Philosopy.md",
     "1 - Rough Notes/BrainStorm.md",
     "1 - Rough Notes/AI Sharing talking.md",
@@ -199,7 +200,6 @@
     "1 - Rough Notes/PRN212 - Collection and Generic.md",
     "7 - Daily Planner",
     "6 - Main Notes/2024-09-18.md",
-    "6 - Main Notes/Routing trong Angular.md",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
