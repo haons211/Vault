@@ -11,7 +11,7 @@ Tags:
 - Kinh nghiệm về phỏng vấn : 
   -  Nhờ đồng nghiệp
   - Tự học
-  
+  Hỏi về cấu trúc dữ liệu + hướng đối tượng + data
 
 
 # References
