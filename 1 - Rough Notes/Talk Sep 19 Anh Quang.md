@@ -27,7 +27,8 @@ Tags:
 - Sau khi làm xong mỗi task, em phải làm vượt kì vọng của họ đi.
 - Xem task bạn cùng nhóm, senior để xem context của các anh đang giải quyết. Hỏi luôn để trả lời. Xem task của cả 2 - 3 team nữa . 
 - Mình phải chủ động, sẵn sàng nhận việc . Không ngại những gì mình không biết .
-- 
+   Ví dụ : task 3 ngày, trong 1 ngày đầu không biết phải raise lên cho người ta biết .
+   Phải chắc chắn mình hiểu vấn đề . "Đặt câu hỏi em hiêu rnhuw này dã đúng chưa"
 
 
 # References
