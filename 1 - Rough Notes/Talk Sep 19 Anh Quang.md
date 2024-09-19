@@ -19,7 +19,7 @@ Tags:
    -  System Design
 -  Lấy Offer MoMo để nâng giá mình ra
 - Xác định chuyên nghành, mình học
--  
+-  Những lí thuyết học cấu trúc máy tính , hệ điều hành ít gặp ở công việc thường làm. Mình sẽ gặp nó ở task khó : như việc tối ưu database 
 
 
 # References
