@@ -16,6 +16,7 @@ Tags:
 - Phủ định biện chứng : khách quan và kế thừa
 - Ý niệm chẳn qua là vật chất được di chuyển vào bộ óc của con người và được cải biên đi ở trong đó
 - Siêu hình : thấy cái riêng mà không thấy cái chung
+- Sông và bọt : hiện tượng và bản chất
 # References
 
 
