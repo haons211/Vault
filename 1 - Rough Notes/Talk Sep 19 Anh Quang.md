@@ -14,6 +14,9 @@ Tags:
   Hỏi về cấu trúc dữ liệu + hướng đối tượng + database
 -  Vô cùng quan trọng ngoại ngữ
 -  Đừng sợ HR . 
+- Big teach
+   -  Coding Interview
+   -  System Design
 
 
 # References
