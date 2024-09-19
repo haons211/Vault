@@ -23,9 +23,11 @@ Tags:
 -  Luôn xác định những thứ để chuyển bị trước . Những thứ người khác nghĩ là không quan trọng . Mà mình bắt được nó quan trọng. Mình luôn luôn chuyển bị trước.
 
 
-### Cách PM, TechLead đánh giá mình
+### Cách PM, TechLead đánh giá mình (Kinh nghiệm khác biệt)
 - Sau khi làm xong mỗi task, em phải làm vượt kì vọng của họ đi.
 - Xem task bạn cùng nhóm, senior để xem context của các anh đang giải quyết. Hỏi luôn để trả lời. Xem task của cả 2 - 3 team nữa . 
+- Mình phải chủ động, sẵn sàng nhận việc . Không ngại những gì mình không biết .
+- 
 
 
 # References
