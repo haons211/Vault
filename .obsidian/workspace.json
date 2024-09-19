@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Chưa đặt tên.md",
+                "file": "1 - Rough Notes/Talk Sep 19 Anh Quang.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Chưa đặt tên.md",
+                "file": "1 - Rough Notes/Talk Sep 19 Anh Quang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Chưa đặt tên.md",
+                "file": "1 - Rough Notes/Talk Sep 19 Anh Quang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Chưa đặt tên.md"
+                "file": "1 - Rough Notes/Talk Sep 19 Anh Quang.md"
               }
             }
           },
@@ -165,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +184,7 @@
   "active": "3c13e77ba25caa19",
   "lastOpenFiles": [
     "6 - Main Notes/Routing trong Angular.md",
-    "1 - Rough Notes/Chưa đặt tên.md",
+    "1 - Rough Notes/Talk Sep 19 Anh Quang.md",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "3 - Tags/Angular.md",
     "6 - Main Notes/Service và Dependency Injection trong Angular.md",
