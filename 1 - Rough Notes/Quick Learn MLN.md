@@ -17,6 +17,7 @@ Tags:
 - Ý niệm chẳn qua là vật chất được di chuyển vào bộ óc của con người và được cải biên đi ở trong đó
 - Siêu hình : thấy cái riêng mà không thấy cái chung
 - Sông và bọt : hiện tượng và bản chất
+- Con người là tổng hòa các mối quan hệ xã hội : duy vật biện chứng >< duy vật siêu hình
 # References
 
 
