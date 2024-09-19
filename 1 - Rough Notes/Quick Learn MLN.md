@@ -18,6 +18,7 @@ Tags:
 - Siêu hình : thấy cái riêng mà không thấy cái chung
 - Sông và bọt : hiện tượng và bản chất
 - Con người là tổng hòa các mối quan hệ xã hội : duy vật biện chứng >< duy vật siêu hình
+- Phức hợp cảm giác : duy vật biện chứng
 # References
 
 
