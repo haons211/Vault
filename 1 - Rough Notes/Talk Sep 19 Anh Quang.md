@@ -23,6 +23,11 @@ Tags:
 -  Luôn xác định những thứ để chuyển bị trước . Những thứ người khác nghĩ là không quan trọng . Mà mình bắt được nó quan trọng. Mình luôn luôn chuyển bị trước.
 
 
+### Cách PM, TechLead đánh giá mình
+- Sau khi làm xong mỗi task, em phải làm vượt kì vọng của họ đi.
+- 
+
+
 # References
 
 
