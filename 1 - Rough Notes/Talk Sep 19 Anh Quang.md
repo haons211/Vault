@@ -18,6 +18,8 @@ Tags:
    -  Coding Interview
    -  System Design
 -  Lấy Offer MoMo để nâng giá mình ra
+- Xác định chuyên nghành, mình học
+-  
 
 
 # References
