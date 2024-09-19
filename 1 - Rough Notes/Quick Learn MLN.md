@@ -20,6 +20,7 @@ Tags:
 - Con người là tổng hòa các mối quan hệ xã hội : duy vật biện chứng >< duy vật siêu hình
 - Phức hợp cảm giác : duy vật biện chứng
 - Biện chứng : 
+- Triết học ra đời : 8-6 TCN
 # References
 
 
