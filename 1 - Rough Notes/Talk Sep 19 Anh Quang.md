@@ -8,8 +8,10 @@ Tags:
 
 # Chưa đặt tên
 
-- Kinh nghiệm về phỏng vấn : -
-  -  
+- Kinh nghiệm về phỏng vấn : 
+  -  Nhờ đồng nghiệp
+  - Tự học
+  
 
 
 # References
