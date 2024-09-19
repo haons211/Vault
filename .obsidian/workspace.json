@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Routing trong Angular.md",
+                "file": "1 - Rough Notes/Chưa đặt tên.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Routing trong Angular.md",
+                "file": "1 - Rough Notes/Chưa đặt tên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Routing trong Angular.md",
+                "file": "1 - Rough Notes/Chưa đặt tên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Routing trong Angular.md"
+                "file": "1 - Rough Notes/Chưa đặt tên.md"
               }
             }
           },
@@ -181,9 +181,10 @@
   },
   "active": "3c13e77ba25caa19",
   "lastOpenFiles": [
+    "6 - Main Notes/Routing trong Angular.md",
+    "1 - Rough Notes/Chưa đặt tên.md",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "3 - Tags/Angular.md",
-    "6 - Main Notes/Routing trong Angular.md",
     "6 - Main Notes/Service và Dependency Injection trong Angular.md",
     "6 - Main Notes/Các loại Component trong Angular.md",
     "1 - Rough Notes/Quick Learn MLN.md",
@@ -212,7 +213,6 @@
     "3 - Tags/Front-end.md",
     "3 - Tags/Lenin.md",
     "1 - Rough Notes/PRN211 - Generic & Collection.md",
-    "1 - Rough Notes/Các level khi tham gia a Quang.md",
     "7 - Daily Planner",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
