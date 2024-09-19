@@ -29,6 +29,7 @@ Tags:
 - Mình phải chủ động, sẵn sàng nhận việc . Không ngại những gì mình không biết .
    Ví dụ : task 3 ngày, trong 1 ngày đầu không biết phải raise lên cho người ta biết .
    Phải chắc chắn mình hiểu vấn đề . "Đặt câu hỏi em hiêu rnhuw này dã đúng chưa"
+- Sẵn sàng support người khác 
 
 
 # References
