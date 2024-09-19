@@ -31,6 +31,7 @@ Tags:
    Phải chắc chắn mình hiểu vấn đề . "Đặt câu hỏi em hiêu rnhuw này dã đúng chưa"
 - Sẵn sàng support người khác , những vấn đề tạo giá trị cho mọi người : Viết tool support cho team.
 - Không biết thì nói 
+-  Khi gặp task  khó thì trả lời như nào : Đối với em  thì mọi câu hỏi đều có câu trả lời , mình cần tìm ra nó thôi. Nếu trong 1/3 thời gian 
 
 
 # References
