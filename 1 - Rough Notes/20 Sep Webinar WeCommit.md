@@ -69,7 +69,7 @@ Bài toán : từ value  ra index thế nào?
 
 ![[Pasted image 20240920213233.png]]
 ![[Pasted image 20240920213342.png]]
-- Couting Sort : Cô giáo chấm điểm thi học sinh . 
+- Couting Sort : Cô giáo chấm điểm thi học sinh . Dùng trực tiếp index này làm
 # References
 
 
