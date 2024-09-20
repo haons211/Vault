@@ -22,7 +22,7 @@ Khi học một lĩnh vực gì mới ?
     ### ARRAY - NHANH - TRỰC TIẾP
       - Tại sao nó nhanh 
       -  Tập hợp dữ liệu , thông tin có cùng kiểu và nó ở cạnh nhau.
-      -
+      - Cùng kích thước, liên tiếp
 # References
 
 
