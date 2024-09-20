@@ -78,6 +78,7 @@ Bài toán : từ value  ra index thế nào?
 -  Hãy xem mình là hình chữ nhật . Mục đích là diện tích rộng hơn . chứ không phải chỉ ưu tiên 1 góc.
 -  Hãy trở thành key person.
 - Tư duy gốc về giải thuật :
+- Nắm rõ OOP và Solid
 ### Tip
 -  hỏi người phỏng vấn xem contraints như nào
 - Stack Quêue,Graph, Cây nhị phân, hashmap, Vét cạn.Top k element., đệ quy, two pointer
