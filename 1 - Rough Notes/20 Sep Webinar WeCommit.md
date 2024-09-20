@@ -75,7 +75,7 @@ Bài toán : từ value  ra index thế nào?
 -  Tôi muốn tôi ngon , không phải giỏi mới là ngon.
 -  Không coi rằng trở thành chuyên gia là ưu tiên số 1 . Tôi muốn tổng của tôi là ngon nhất
 -  Hãy xem mình là hình chữ nhật . Mục đích là diện tích rộng hơn . chứ không phải chỉ ưu tiên 1 góc.
-- 
+-  Hãy trở thành key person.
 # References
 
 
