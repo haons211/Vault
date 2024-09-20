@@ -19,7 +19,9 @@ Khi học một lĩnh vực gì mới ?
 -  Có cách tiếp cận giải thuật nào ? khi có cái này , học mọi giải thuật khác khong ?
       -  Mảng và danh sách liên kết : 
       - a Huy : khi học 1 thứ gì đó . Đặt câu hỏi nó là gì ? Bản chất của nó là gì ? Nó giải quyết bài toán gì ? Ưu điểm , Nhược Điểm nó là gì?
-      
+    ### ARRAY - NHANH - TRỰC TIẾP
+      - Tại sao nó nhanh 
+      -  Tập hợp dữ liệu , thông tin có cùng kiểu và nó o
 # References
 
 
