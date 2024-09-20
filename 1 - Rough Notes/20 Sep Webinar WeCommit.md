@@ -41,8 +41,9 @@ Khi học một lĩnh vực gì mới ?
        Dễ dàng thêm.(thứ tự thêm chuẩn) ![[Pasted image 20240920205801.png]]
 
      -  Vì mỗi lần tạo ra đều có thêm 1 vùng nhớ mỗi node để chứa vị trí . 
-     -  Máy tính 32bit và 64bit : 
-     -  Di chuyển quá nhiều , tốn quá nhiều nguồn lực . Do thứ tự không gần nhau, nên phải nhảy đi nhảy lại (ngày trước, nhưng h đỡ hơn). 
+     -  Máy tính 32bit và 64bit : vị trí mỗi ô nhớ là 32bit và 64bit
+     -  Di chuyển quá nhiều , tốn quá nhiều nguồn lực . Do thứ tự không gần nhau, nên phải nhảy đi nhảy lại (ngày trước, nhưng h đỡ hơn). Do có ổ SSD giải quyết được vấn đề HDD
+    ### Vậy 2 kiểu này có áp dụng được nó với kiểu Graph hay gì đó kho
 
 
 
