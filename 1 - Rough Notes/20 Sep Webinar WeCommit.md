@@ -31,14 +31,20 @@ Khi học một lĩnh vực gì mới ?
      -  Cùng kích thước (điểm yếu, điểm mạnh)
      - phần lớn object cố định . nhưng string ko phải cố định : tùy chữ dài, chữ ngắn . 
      - Làm sao để chuyển 1 thằng ko cố định thành cố định ?: dùng con trỏ  để lưu? lưu vị trí nên nó cố định .
-    ### LinkedList - LINH HOẠT - 
+    ### LinkedList - LINH HOẠT - CON TRỎ - THAM CHIẾU
      #### Nó là gì ? (khắc phục nhược điểm của ARRAY)
      ![[Pasted image 20240920205143.png]]
        #### LINH HOẠT
 	   - Tập hợp các dữ liệu có thể liên kết được với nhau . Tại sao cách thiết
        kế này lại khắc phục ? 
        Ưu điểm : dùng tối ưu vùng nhớ ví các node lưu vị trí của thằng node sau nó.
-       Dễ dàng thêm. 
+       Dễ dàng thêm.(thứ tự thêm chuẩn) ![[Pasted image 20240920205801.png]]
+
+     -  Vì mỗi lần tạo r
+
+
+
+
 # References
 
 
