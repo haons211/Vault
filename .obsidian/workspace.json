@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Event trong .NET.md",
+                "file": "1 - Rough Notes/20 Sep Webinar WeCommit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Event trong .NET.md",
+                "file": "1 - Rough Notes/20 Sep Webinar WeCommit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Event trong .NET.md",
+                "file": "1 - Rough Notes/20 Sep Webinar WeCommit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Event trong .NET.md"
+                "file": "1 - Rough Notes/20 Sep Webinar WeCommit.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "4b60b7335c00e5c9",
+            "id": "313c88f7cde8f968",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -182,6 +182,7 @@
   "active": "d94ee674befc550d",
   "lastOpenFiles": [
     "6 - Main Notes/Event trong .NET.md",
+    "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "3 - Tags/Angular.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/Game.md",
@@ -212,7 +213,6 @@
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
-    "6 - Main Notes/Goog.md",
     "7 - Daily Planner",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
