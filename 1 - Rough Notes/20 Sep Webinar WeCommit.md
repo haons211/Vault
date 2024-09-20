@@ -82,7 +82,9 @@ Bài toán : từ value  ra index thế nào?
 -  hỏi người phỏng vấn xem contraints như nào
 - Stack Quêue,Graph, Cây nhị phân, hashmap, Vét cạn.Top k element., đệ quy, two pointer
 
-
+Phân tích và thiết kế hệ thống
+- Bạn đang có bao nhiêu thông tin?
+-  Tiêu chí đánh giá khi thiết kế :
 
 
 
