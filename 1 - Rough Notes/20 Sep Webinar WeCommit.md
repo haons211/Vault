@@ -4,7 +4,7 @@
 Status:
 
 Tags:
-
+MindSet : Nỗi đau, vấn đề nào khiến cái này tồn tại.
 
 # 20 Sep Webinar WeCommit
 ![[Pasted image 20240920211858.png]]
@@ -63,6 +63,9 @@ Trải nghiệm khi pv với đồ thị : dễ dàng nhất là Ma trận kề.
      - Chỉ cần giải thuật vét cạn (trong database là full table scan).
      - Muốn vét cạn nhanh thì phải giảm vùng tìm kiếm : 
      - + Sắp xếp : đảm bảo dữ liệu có quy luật
+### HashMap
+
+
 # References
 
 
