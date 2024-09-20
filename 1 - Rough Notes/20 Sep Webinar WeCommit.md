@@ -84,7 +84,8 @@ Bài toán : từ value  ra index thế nào?
 
 Phân tích và thiết kế hệ thống
 - Bạn đang có bao nhiêu thông tin?
--  Tiêu chí đánh giá khi thiết kế :
+-  Tiêu chí đánh giá khi thiết kế : - mở rộng thông tin đầu vào ?
+- 
 
 
 
