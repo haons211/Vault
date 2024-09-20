@@ -7,7 +7,7 @@ Tags: [[Learning]] [[DotNet]]
 
 
 # Event trong .NET
-      Event trong C
+      Event trong C# là một cơ chế cho phép đối tượng thông báo cho các đối tượng khác một hành động cụ thể  đã xảy ra . 
 
 
 
