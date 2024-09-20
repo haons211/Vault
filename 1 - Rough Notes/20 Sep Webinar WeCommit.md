@@ -26,8 +26,10 @@ Khi học một lĩnh vực gì mới ?
          Vị trí i = địa chỉ bắt đầu i*kích thước(32bit).
          Truy cập : O(1)
     - Nhược điểm : nó ở cạnh nhau : nên phải cấp phát bộ nhớ trước cho  nó và phải nằm gần nhau .
-     -==> Ưu điểm cũng là nhược điểm lớn nhất
-     - khi muốn cấp phát dữ liệu, hệ thống phải cấp phát 1 loạt page liên tiếp nhau . Bản chất cấp phát database và mảng tương tự nhau .
+     -==> Ưu điểm cũng là nhược điểm lớn nhất : liên tiếp
+     - khi muốn cấp phát dữ liệu, hệ thống phải cấp phát 1 loạt page liên tiếp nhau . Bản chất cấp phát database và mảng tương tự nhau .(fragmentation)
+     -  Cùng 
+        
 # References
 
 
