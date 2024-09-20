@@ -16,7 +16,7 @@ Khi học một lĩnh vực gì mới ?
 -  Người ta đánh giá thuật toán qua cái gì ?
     -  Độ phức tạp .(Trường hợp tệ nhất có thể xảy ra) 
     -  Quan trọng nhất thuật toán phải hiểu bản chất của nó : Quan trọng nhất là đúng. Còn lại là : Nhanh và nhẹ, dễ triển khai , maintain.
-    - 
+- 
       
 # References
 
