@@ -54,7 +54,9 @@ Khi học một lĩnh vực gì mới ?
 Định là data, cạnh là ô lưu vị trí.
 
 
-- 
+-  Ma trận kề : Array + 1 luật
+- Danh sách đỉnh kề : Array + 1 luật
+- Danh sách cạnh : Array + 1 luật
 # References
 
 
