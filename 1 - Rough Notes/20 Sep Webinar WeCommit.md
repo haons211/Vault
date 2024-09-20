@@ -79,6 +79,7 @@ Bài toán : từ value  ra index thế nào?
 -  Hãy trở thành key person.
 - Tư duy gốc về giải thuật :
 - Nắm rõ OOP và Solid
+-  Đôi khi kiểm tra t
 ### Tip
 -  hỏi người phỏng vấn xem contraints như nào
 - Stack Quêue,Graph, Cây nhị phân, hashmap, Vét cạn.Top k element., đệ quy, two pointer
