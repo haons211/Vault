@@ -40,7 +40,9 @@ Khi học một lĩnh vực gì mới ?
        Ưu điểm : dùng tối ưu vùng nhớ ví các node lưu vị trí của thằng node sau nó.
        Dễ dàng thêm.(thứ tự thêm chuẩn) ![[Pasted image 20240920205801.png]]
 
-     -  Vì mỗi lần tạo r
+     -  Vì mỗi lần tạo ra đều có thêm 1 vùng nhớ mỗi node để chứa vị trí . 
+     -  Máy tính 32bit và 64bit : 
+     -  Di chuyển quá nhiều
 
 
 
