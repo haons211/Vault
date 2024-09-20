@@ -77,7 +77,7 @@ Bài toán : từ value  ra index thế nào?
 -  Không coi rằng trở thành chuyên gia là ưu tiên số 1 . Tôi muốn tổng của tôi là ngon nhất
 -  Hãy xem mình là hình chữ nhật . Mục đích là diện tích rộng hơn . chứ không phải chỉ ưu tiên 1 góc.
 -  Hãy trở thành key person.
-- Tư duy gốc về giải 
+- Tư duy gốc về giải thuật :
 ### Tip
 -  hỏi người phỏng vấn xem contraints như nào
 - Stack Quêue,Graph, Cây nhị phân, hashmap, Vét cạn.Top k element., đệ quy, two pointer
