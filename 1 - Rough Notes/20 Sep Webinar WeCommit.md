@@ -65,7 +65,11 @@ Trải nghiệm khi pv với đồ thị : dễ dàng nhất là Ma trận kề.
      - + Sắp xếp : đảm bảo dữ liệu có quy luật
 ### HashMap
 
+Bài toán : từ value : ra index thế nào?
+
 ![[Pasted image 20240920213233.png]]
+![[Pasted image 20240920213342.png]]
+
 # References
 
 
