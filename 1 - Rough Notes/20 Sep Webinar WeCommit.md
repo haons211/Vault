@@ -25,7 +25,8 @@ Khi học một lĩnh vực gì mới ?
       - Cùng kích thước, liên tiếp
          Vị trí i = địa chỉ bắt đầu i*kích thước(32bit).
          Truy cập : O(1)
-    - Nhược điểm : nó ở cạnh nhau : nên phải cấp phát bộ nhớ trước cho  nó và
+    - Nhược điểm : nó ở cạnh nhau : nên phải cấp phát bộ nhớ trước cho  nó và phải nằm gần nhau .
+    - 
 # References
 
 
