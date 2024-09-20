@@ -33,7 +33,9 @@ Khi học một lĩnh vực gì mới ?
      - Làm sao để chuyển 1 thằng ko cố định thành cố định ?: dùng con trỏ  để lưu? lưu vị trí nên nó cố định .
     ### LinkedList - LINH HOẠT - 
      #### Nó là gì ? (khắc phục nhược điểm của ARRAY)
-       - 
+     ![[Pasted image 20240920205143.png]]
+       - Tập hợp các dữ liệu có thể liên kết được với nhau . Tại sao cách thiết
+       kế này lại khắc phục ? Áp 
 # References
 
 
