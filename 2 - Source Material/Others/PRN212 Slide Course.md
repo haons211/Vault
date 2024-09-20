@@ -5,9 +5,7 @@ Teacher : khainn7
 
 Course Material : 
 
-Tags: 
-
-
+Tags: [[Learning]] [[DotNet]]]
 # PRN212 Slide Course
 
 
