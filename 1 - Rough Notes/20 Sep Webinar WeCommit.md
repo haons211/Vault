@@ -72,7 +72,8 @@ Bài toán : từ value  ra index thế nào?
 - Couting Sort : Cô giáo chấm điểm thi học sinh . Dùng trực tiếp index này làm giá trị luôn.
 ### Giải thuật mang lại điều gì ?
 #### Mindset ?
--  
+-  Tôi muốn tôi ngon , không phải giỏi mới là ngon.
+-  Không coi rằng trở thành chuyên
 # References
 
 
