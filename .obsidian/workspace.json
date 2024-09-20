@@ -11,10 +11,8 @@
             "id": "3c13e77ba25caa19",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "6 - Main Notes/Pasted image 20240919054742.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Pasted image 20240919054742.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Pasted image 20240919054742.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Main Notes/Pasted image 20240919054742.png"
-              }
+              "state": {}
             }
           },
           {
@@ -165,12 +159,13 @@
   },
   "active": "3c13e77ba25caa19",
   "lastOpenFiles": [
-    "6 - Main Notes/Pasted image 20240920211840.png",
+    "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "6 - Main Notes/Pasted image 20240920211858.png",
+    "6 - Main Notes/Pasted image 20240919054742.png",
+    "6 - Main Notes/Pasted image 20240920211840.png",
     "6 - Main Notes/Pasted image 20240920205801.png",
     "6 - Main Notes/Pasted image 20240919054916.png",
     "6 - Main Notes/Pasted image 20240918164155.png",
-    "6 - Main Notes/Pasted image 20240919054742.png",
     "6 - Main Notes/Props and State.md",
     "6 - Main Notes/Pasted image 20240920205143.png",
     "6 - Main Notes/Pasted image 20240919054843.png",
@@ -179,10 +174,8 @@
     "3 - Tags/Philosophy.md",
     "2 - Source Material/Images/Pasted image 20240910001136.png",
     "2 - Source Material/Images/Pasted image 20240910001123.png",
-    "2 - Source Material/Images/Pasted image 20240910001204.png",
     "1 - Rough Notes/Tóm tắt b.md",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
-    "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "3 - Tags/System Design.md",
     "6 - Main Notes/Event trong .NET.md",
     "3 - Tags/Angular.md",
