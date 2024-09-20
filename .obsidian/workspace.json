@@ -11,13 +11,8 @@
             "id": "d94ee674befc550d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/Angular.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -99,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Tags/Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Tags/Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 - Tags/Angular.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,6 +172,7 @@
   },
   "active": "d94ee674befc550d",
   "lastOpenFiles": [
+    "3 - Tags/Angular.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/Game.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
@@ -196,7 +188,6 @@
     "3 - Tags/DotNet.md",
     "1 - Rough Notes/Talking Sep 19.md",
     "6 - Main Notes/Routing trong Angular.md",
-    "3 - Tags/Angular.md",
     "6 - Main Notes/Service và Dependency Injection trong Angular.md",
     "6 - Main Notes/Các loại Component trong Angular.md",
     "7 - Daily Planner/2024-09-19.md",
