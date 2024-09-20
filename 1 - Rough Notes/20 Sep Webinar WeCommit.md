@@ -5,6 +5,7 @@ Status:
 
 Tags:
 MindSet : Nỗi đau, vấn đề nào khiến cái này tồn tại.
+KeyWord học thuật toán : Rule
 
 # 20 Sep Webinar WeCommit
 ![[Pasted image 20240920211858.png]]
