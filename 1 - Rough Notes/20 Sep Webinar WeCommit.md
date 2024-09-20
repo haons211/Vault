@@ -17,7 +17,7 @@ Khi học một lĩnh vực gì mới ?
     -  Độ phức tạp .(Trường hợp tệ nhất có thể xảy ra) 
     -  Quan trọng nhất thuật toán phải hiểu bản chất của nó : Quan trọng nhất là đúng. Còn lại là : Nhanh và nhẹ, dễ triển khai , maintain.
 -  Có cách tiếp cận giải thuật nào ? khi có cái này , học mọi giải thuật khác khong ?
-      -  
+      -  Mảng và danh sách liên kết : 
       
 # References
 
