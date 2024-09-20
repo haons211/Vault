@@ -14,7 +14,7 @@ Khi học một lĩnh vực gì mới ?
      - Thuật toán tách bài toán lớn thành các bài toán nhỏ .
           => Thuật toán vô cùng gần gũi
 -  Người ta đánh giá thuật toán qua cái gì ?
-    -  Độ phức tạp 
+    -  Độ phức tạp .(Trường hợp tệ nhất có thể xảy ra) 
       
 # References
 
