@@ -31,7 +31,7 @@ Khi học một lĩnh vực gì mới ?
      -  Cùng kích thước (điểm yếu, điểm mạnh)
      - phần lớn object cố định . nhưng string ko phải cố định : tùy chữ dài, chữ ngắn . 
      - Làm sao để chuyển 1 thằng ko cố định thành cố định ?: dùng con trỏ  để lưu? lưu vị trí nên nó cố định .
-        
+    #### 
 # References
 
 
