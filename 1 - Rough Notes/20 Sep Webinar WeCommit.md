@@ -30,7 +30,7 @@ Khi học một lĩnh vực gì mới ?
      - khi muốn cấp phát dữ liệu, hệ thống phải cấp phát 1 loạt page liên tiếp nhau . Bản chất cấp phát database và mảng tương tự nhau .(fragmentation)
      -  Cùng kích thước (điểm yếu, điểm mạnh)
      - phần lớn object cố định . nhưng string ko phải cố định : tùy chữ dài, chữ ngắn . 
-     - Làm sao để chuyển 1 thằng ko cố định thành cố định ?
+     - Làm sao để chuyển 1 thằng ko cố định thành cố định ?: dùng con trỏ  để lưu? lưu vị trí nên nó cố định .
         
 # References
 
