@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Others/Unity Slide Course.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 367.5
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Others/Unity Slide Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Others/Unity Slide Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
+                "file": "2 - Source Material/Others/Unity Slide Course.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "3c13e77ba25caa19",
   "lastOpenFiles": [
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/DotNet.md",
     "1 - Rough Notes/Talking Sep 19.md",
@@ -197,7 +198,6 @@
     "6 - Main Notes/Pasted image 20240919054916.png",
     "6 - Main Notes/Pasted image 20240919054843.png",
     "6 - Main Notes/Pasted image 20240919054742.png",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "6 - Main Notes/Pasted image 20240918164155.png",
     "5 - Templates/FPT Course Name.md",
     "5 - Templates/Full Note.md",
