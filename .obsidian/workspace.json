@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "6 - Main Notes/Pasted image 20240920205143.png"
+                "file": "6 - Main Notes/Pasted image 20240919054742.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Pasted image 20240920205143.png",
+                "file": "6 - Main Notes/Pasted image 20240919054742.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Pasted image 20240920205143.png",
+                "file": "6 - Main Notes/Pasted image 20240919054742.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Pasted image 20240920205143.png"
+                "file": "6 - Main Notes/Pasted image 20240919054742.png"
               }
             }
           },
@@ -165,10 +165,15 @@
   },
   "active": "3c13e77ba25caa19",
   "lastOpenFiles": [
-    "6 - Main Notes/Pasted image 20240919054843.png",
+    "6 - Main Notes/Pasted image 20240920211840.png",
+    "6 - Main Notes/Pasted image 20240920211858.png",
+    "6 - Main Notes/Pasted image 20240920205801.png",
     "6 - Main Notes/Pasted image 20240919054916.png",
-    "6 - Main Notes/Pasted image 20240920205143.png",
     "6 - Main Notes/Pasted image 20240918164155.png",
+    "6 - Main Notes/Pasted image 20240919054742.png",
+    "6 - Main Notes/Props and State.md",
+    "6 - Main Notes/Pasted image 20240920205143.png",
+    "6 - Main Notes/Pasted image 20240919054843.png",
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
     "3 - Tags/Philosophy.md",
@@ -180,10 +185,6 @@
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "3 - Tags/System Design.md",
     "6 - Main Notes/Event trong .NET.md",
-    "6 - Main Notes/Pasted image 20240920211858.png",
-    "6 - Main Notes/Pasted image 20240920211840.png",
-    "6 - Main Notes/Pasted image 20240920211404.png",
-    "6 - Main Notes/Pasted image 20240920205801.png",
     "3 - Tags/Angular.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/Game.md",
@@ -200,7 +201,6 @@
     "1 - Rough Notes/Talking Sep 19.md",
     "6 - Main Notes/Routing trong Angular.md",
     "6 - Main Notes/Service và Dependency Injection trong Angular.md",
-    "6 - Main Notes/Các loại Component trong Angular.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
