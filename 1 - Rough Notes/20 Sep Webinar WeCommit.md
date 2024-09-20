@@ -46,6 +46,7 @@ Khi học một lĩnh vực gì mới ?
     ### Vậy 2 kiểu này có áp dụng được nó với kiểu Graph hay gì đó không ?
     - Câu trả lời là có .
     - Queue : Queue vòng, Queue Dồn
+    -  Dữ liệu rời rạc và dữ liệu có quan hệ
 
 
 
