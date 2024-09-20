@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/Unity Slide Course.md",
+                "file": "2 - Source Material/Others/PRN212 Slide Course.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Others/Unity Slide Course.md",
+                "file": "2 - Source Material/Others/PRN212 Slide Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Others/Unity Slide Course.md",
+                "file": "2 - Source Material/Others/PRN212 Slide Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Others/Unity Slide Course.md"
+                "file": "2 - Source Material/Others/PRN212 Slide Course.md"
               }
             }
           },
@@ -180,8 +180,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3c13e77ba25caa19",
+  "active": "e5381bf0f5ab0143",
   "lastOpenFiles": [
+    "2 - Source Material/Others/Unity Slide Course.md",
+    "2 - Source Material/Others/PRN212 Slide Course.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/DotNet.md",
@@ -194,7 +196,6 @@
     "1 - Rough Notes/Quick Learn MLN.md",
     "7 - Daily Planner/2024-09-19.md",
     "7 - Daily Planner/2024-09-18.md",
-    "2 - Source Material/Others/Unity Slide Course.md",
     "6 - Main Notes/Pasted image 20240919054916.png",
     "6 - Main Notes/Pasted image 20240919054843.png",
     "6 - Main Notes/Pasted image 20240919054742.png",
@@ -213,7 +214,6 @@
     "1 - Rough Notes/BrainStorm.md",
     "1 - Rough Notes/AI Sharing talking.md",
     "3 - Tags/Front-end.md",
-    "3 - Tags/Lenin.md",
     "7 - Daily Planner",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
