@@ -45,12 +45,16 @@ Khi học một lĩnh vực gì mới ?
      -  Di chuyển quá nhiều , tốn quá nhiều nguồn lực . Do thứ tự không gần nhau, nên phải nhảy đi nhảy lại (ngày trước, nhưng h đỡ hơn). Do có ổ SSD giải quyết được vấn đề HDD
     ### Vậy 2 kiểu này có áp dụng được nó với kiểu Graph hay gì đó không ?
     - Câu trả lời là có .
-    - Queue : Queue vòng, Queue Dồn
+    - Queue(Thông tin , quan hệ) : Queue vòng, Queue Dồn
     -  Dữ liệu rời rạc và dữ liệu có quan hệ. 
     - Đồ thị là 1 dạng dữ liệu có quan hệ. ĐỒ thị là linkedlist nhưng thay vì trở 1 thằng, thì ở graph là trỏ nhiều thằng .
 
+![[Pasted image 20240920211404.png]]
+
+Định là data, cạnh là ô lưu vị trí.
 
 
+- 
 # References
 
 
