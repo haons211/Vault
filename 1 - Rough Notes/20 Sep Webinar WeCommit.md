@@ -7,7 +7,7 @@ Tags:
 
 
 # 20 Sep Webinar WeCommit
-
+![[Pasted image 20240920211858.png]]
 Khi học một lĩnh vực gì mới ? 
 - Câu hỏi what đầu tiên ? Thuật toán là gì ?
      -   Thuật toán bắt đầu từ con người . Từ thế kỉ 19 người ta đưa ra 1 cách tuần tự : pha trà kiểu gì , nấu kiểu gì . Thế kỉ 20 , Turing đưa thuật toán vào máy tính . 
@@ -18,6 +18,7 @@ Khi học một lĩnh vực gì mới ?
     -  Quan trọng nhất thuật toán phải hiểu bản chất của nó : Quan trọng nhất là đúng. Còn lại là : Nhanh và nhẹ, dễ triển khai , maintain.
 -  Có cách tiếp cận giải thuật nào ? khi có cái này , học mọi giải thuật khác khong ?
       -  Mảng và danh sách liên kết : 
+      - 
       - a Huy : khi học 1 thứ gì đó . Đặt câu hỏi nó là gì ? Bản chất của nó là gì ? Nó giải quyết bài toán gì ? Ưu điểm , Nhược Điểm nó là gì?
     ### ARRAY - NHANH - TRỰC TIẾP (do cùng kích thước và liên tiếp)
       - Tại sao nó nhanh 
