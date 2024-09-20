@@ -24,12 +24,16 @@
             "id": "3c13e77ba25caa19",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/System Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Main Notes/Cách sử dụng Route trong Angular.md"
+              }
             }
           },
           {
@@ -171,8 +179,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3c13e77ba25caa19",
+  "active": "d94ee674befc550d",
   "lastOpenFiles": [
+    "3 - Tags/System Design.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "1 - Rough Notes/AI Sharing talking.md",
     "1 - Rough Notes/BrainStorm.md",
     "1 - Rough Notes/Noting 17Sep.md",
@@ -180,8 +191,6 @@
     "1 - Rough Notes/Quick Learn MLN.md",
     "2 - Source Material/Others/PRN212 Slide Course.md",
     "2 - Source Material/Others/Unity Slide Course.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/DotNet.md",
     "1 - Rough Notes/Talking Sep 19.md",
     "6 - Main Notes/Routing trong Angular.md",
@@ -204,7 +213,6 @@
     "6 - Main Notes/Goog.md",
     "3 - Tags/Database.md",
     "6 - Main Notes/Định nghĩa Inputs trong Angular.md",
-    "3 - Tags/Front-end.md",
     "7 - Daily Planner",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
