@@ -73,7 +73,8 @@ Bài toán : từ value  ra index thế nào?
 ### Giải thuật mang lại điều gì ?
 #### Mindset ?
 -  Tôi muốn tôi ngon , không phải giỏi mới là ngon.
--  Không coi rằng trở thành chuyên
+-  Không coi rằng trở thành chuyên gia là ưu tiên số 1 . Tôi muốn tổng của tôi là ngon nhất
+- 
 # References
 
 
