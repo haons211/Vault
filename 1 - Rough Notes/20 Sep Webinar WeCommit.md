@@ -34,9 +34,11 @@ Khi học một lĩnh vực gì mới ?
     ### LinkedList - LINH HOẠT - 
      #### Nó là gì ? (khắc phục nhược điểm của ARRAY)
      ![[Pasted image 20240920205143.png]]
-       - Tập hợp các dữ liệu có thể liên kết được với nhau . Tại sao cách thiết
+       #### LINH HOẠT
+	   - Tập hợp các dữ liệu có thể liên kết được với nhau . Tại sao cách thiết
        kế này lại khắc phục ? 
        Ưu điểm : dùng tối ưu vùng nhớ ví các node lưu vị trí của thằng node sau nó.
+       Dễ dàng thêm. Chỉ cần ghi vị trí của thằng muốn thêm 
 # References
 
 
