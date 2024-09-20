@@ -38,7 +38,7 @@ Khi học một lĩnh vực gì mới ?
 	   - Tập hợp các dữ liệu có thể liên kết được với nhau . Tại sao cách thiết
        kế này lại khắc phục ? 
        Ưu điểm : dùng tối ưu vùng nhớ ví các node lưu vị trí của thằng node sau nó.
-       Dễ dàng thêm. Chỉ cần ghi vị trí của thằng muốn thêm 
+       Dễ dàng thêm. Chỉ cần ghi vị trí của thằng muốn thêm ()
 # References
 
 
