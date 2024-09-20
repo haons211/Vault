@@ -18,6 +18,7 @@ Khi học một lĩnh vực gì mới ?
     -  Quan trọng nhất thuật toán phải hiểu bản chất của nó : Quan trọng nhất là đúng. Còn lại là : Nhanh và nhẹ, dễ triển khai , maintain.
 -  Có cách tiếp cận giải thuật nào ? khi có cái này , học mọi giải thuật khác khong ?
       -  Mảng và danh sách liên kết : 
+      - a Huy : khi học 1 thứ gì đó . Đặt câu hỏi nó là gì ? Bản chất của nó là gì ? Nó giải quyết bài toán gì ? Ưu điểm , Nhược Điểm nó là gì?
       
 # References
 
