@@ -81,6 +81,15 @@ Bài toán : từ value  ra index thế nào?
 ### Tip
 -  hỏi người phỏng vấn xem contraints như nào
 - Stack Quêue,Graph, Cây nhị phân, hashmap, Vét cạn.Top k element., đệ quy, two pointer
+
+
+
+
+
+
+
+
+
 # References
 
 
