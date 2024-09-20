@@ -79,6 +79,7 @@ Bài toán : từ value  ra index thế nào?
 -  Hãy trở thành key person.
 ### Tip
 -  hỏi người phỏng vấn xem contraints như nào
+- Stack Quêue,Graph, Cây nhị phân, hashmap, Vét cạn.
 # References
 
 
