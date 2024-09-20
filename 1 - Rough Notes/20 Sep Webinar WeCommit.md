@@ -79,7 +79,8 @@ Bài toán : từ value  ra index thế nào?
 -  Hãy trở thành key person.
 - Tư duy gốc về giải thuật :
 - Nắm rõ OOP và Solid
--  Đôi khi kiểm tra t
+-  Đôi khi kiểm tra thuật toán xem kĩ năng giao tiếp như nào ? có thể hợp tác với nhau không
+-  
 ### Tip
 -  hỏi người phỏng vấn xem contraints như nào
 - Stack Quêue,Graph, Cây nhị phân, hashmap, Vét cạn.Top k element., đệ quy, two pointer
