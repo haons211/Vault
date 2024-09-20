@@ -47,7 +47,7 @@ Khi học một lĩnh vực gì mới ?
     - Câu trả lời là có .
     - Queue : Queue vòng, Queue Dồn
     -  Dữ liệu rời rạc và dữ liệu có quan hệ. 
-    - Đồ thị là 1 dạng dữ liệu có quan hệ.
+    - Đồ thị là 1 dạng dữ liệu có quan hệ. ĐỒ thị là linkedlist nhưng thay vì tro
 
 
 
