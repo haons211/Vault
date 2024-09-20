@@ -42,7 +42,7 @@ Khi học một lĩnh vực gì mới ?
 
      -  Vì mỗi lần tạo ra đều có thêm 1 vùng nhớ mỗi node để chứa vị trí . 
      -  Máy tính 32bit và 64bit : 
-     -  Di chuyển quá nhiều
+     -  Di chuyển quá nhiều , tốn quá nhiều nguồn lực . Do thứ tự không gần nhau, nên phải nhảy đi nhảy lại (ngày trước, nhưng h đỡ hơn). 
 
 
 
