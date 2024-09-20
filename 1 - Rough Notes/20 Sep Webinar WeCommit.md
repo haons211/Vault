@@ -23,6 +23,9 @@ Khi học một lĩnh vực gì mới ?
       - Tại sao nó nhanh 
       -  Tập hợp dữ liệu , thông tin có cùng kiểu và nó ở cạnh nhau.
       - Cùng kích thước, liên tiếp
+         Vị trí i = địa chỉ bắt đầu i*kích thước(32bit).
+         Truy cập : O(1)
+         
 # References
 
 
