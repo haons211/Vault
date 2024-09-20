@@ -45,7 +45,7 @@ Khi học một lĩnh vực gì mới ?
      -  Di chuyển quá nhiều , tốn quá nhiều nguồn lực . Do thứ tự không gần nhau, nên phải nhảy đi nhảy lại (ngày trước, nhưng h đỡ hơn). Do có ổ SSD giải quyết được vấn đề HDD
     ### Vậy 2 kiểu này có áp dụng được nó với kiểu Graph hay gì đó không ?
     - Câu trả lời là có .
-    - Queue : 
+    - Queue : Queue vòng, Queue Dồn
 
 
 
