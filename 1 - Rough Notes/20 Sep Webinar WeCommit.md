@@ -18,7 +18,6 @@ Khi học một lĩnh vực gì mới ?
     -  Quan trọng nhất thuật toán phải hiểu bản chất của nó : Quan trọng nhất là đúng. Còn lại là : Nhanh và nhẹ, dễ triển khai , maintain.
 -  Có cách tiếp cận giải thuật nào ? khi có cái này , học mọi giải thuật khác khong ?
       -  Mảng và danh sách liên kết : 
-      - 
       - a Huy : khi học 1 thứ gì đó . Đặt câu hỏi nó là gì ? Bản chất của nó là gì ? Nó giải quyết bài toán gì ? Ưu điểm , Nhược Điểm nó là gì?
     ### ARRAY - NHANH - TRỰC TIẾP (do cùng kích thước và liên tiếp)
       - Tại sao nó nhanh 
@@ -59,6 +58,8 @@ Khi học một lĩnh vực gì mới ?
 - Danh sách đỉnh kề : Array + 1 luật
 - Danh sách cạnh : Array + 1 luật
 Trải nghiệm khi pv với đồ thị : dễ dàng nhất là Ma trận kề.
+### Vừa mới bắt đầu nên đi từ luật gì ?
+     - 
 # References
 
 
