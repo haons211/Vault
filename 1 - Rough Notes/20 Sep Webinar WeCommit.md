@@ -61,8 +61,8 @@ Trải nghiệm khi pv với đồ thị : dễ dàng nhất là Ma trận kề.
 ### Vừa mới bắt đầu nên đi từ luật gì ?
      - Đảm bảm mình đúng đầu tiên.
      - Chỉ cần giải thuật vét cạn (trong database là full table scan).
-     - Muốn vét cạn nhanh thì phải giảm vùng tìm kiếm 
-     
+     - Muốn vét cạn nhanh thì phải giảm vùng tìm kiếm : 
+     - + Sắp xếp : đảm bảo dữ liệu có quy luật
 # References
 
 
