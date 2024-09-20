@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d94ee674befc550d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/20 Sep Webinar WeCommit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c13e77ba25caa19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/System Design.md",
+                "file": "1 - Rough Notes/20 Sep Webinar WeCommit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -180,21 +166,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d94ee674befc550d",
+  "active": "3c13e77ba25caa19",
   "lastOpenFiles": [
+    "3 - Tags/System Design.md",
+    "1 - Rough Notes/20 Sep Webinar WeCommit.md",
+    "6 - Main Notes/Event trong .NET.md",
     "6 - Main Notes/Pasted image 20240920211858.png",
     "6 - Main Notes/Pasted image 20240920211840.png",
     "6 - Main Notes/Pasted image 20240920211404.png",
     "6 - Main Notes/Pasted image 20240920205801.png",
     "6 - Main Notes/Pasted image 20240920205143.png",
-    "6 - Main Notes/Event trong .NET.md",
-    "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "3 - Tags/Angular.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/Game.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "6 - Main Notes/Cách sử dụng Route trong Angular.md",
-    "3 - Tags/System Design.md",
     "1 - Rough Notes/AI Sharing talking.md",
     "1 - Rough Notes/BrainStorm.md",
     "1 - Rough Notes/Noting 17Sep.md",
@@ -223,7 +209,6 @@
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
     "2 - Source Material/Images/Pasted image 20240910001123.png",
-    "2 - Source Material/Images/Pasted image 20240910001204.png",
     "2 - Source Material/Images",
     "2 - Source Material/Others",
     "2 - Source Material/Articles",
