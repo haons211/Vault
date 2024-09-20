@@ -57,6 +57,7 @@ Khi học một lĩnh vực gì mới ?
 -  Ma trận kề : Array + 1 luật
 - Danh sách đỉnh kề : Array + 1 luật
 - Danh sách cạnh : Array + 1 luật
+Trải nghiệm khi pv với đồ thị : dễ dàng nhất là Ma trận kề.
 # References
 
 
