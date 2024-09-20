@@ -21,7 +21,8 @@ Khi học một lĩnh vực gì mới ?
       - a Huy : khi học 1 thứ gì đó . Đặt câu hỏi nó là gì ? Bản chất của nó là gì ? Nó giải quyết bài toán gì ? Ưu điểm , Nhược Điểm nó là gì?
     ### ARRAY - NHANH - TRỰC TIẾP
       - Tại sao nó nhanh 
-      -  Tập hợp dữ liệu , thông tin có cùng kiểu và nó o
+      -  Tập hợp dữ liệu , thông tin có cùng kiểu và nó ở cạnh nhau.
+      -
 # References
 
 
