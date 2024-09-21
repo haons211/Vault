@@ -12,7 +12,7 @@ tags: [[Database]], [[Learning]]
 - Áp dụng nguyên lí đó vào phát triển sự nghiệp. 
 - Không cần nhảy việc mà vẫn tích lũy được kinh nghiệm .
 #### 1. NGUYÊN LÍ 3 + 2
-
+##
  - Cách cũ : Cơ bản + where (giúp lọc dữ liệu)
  - Cách mới :  Tam giác để học mọi thứ trong database :
     + Pages/Block : Mức độ hoạt động nhỏ nhất, cách thức database lưu những bản ghi
