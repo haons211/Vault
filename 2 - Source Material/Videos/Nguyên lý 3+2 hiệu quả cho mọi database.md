@@ -21,6 +21,7 @@ tags: [[Database]], [[Learning]]
 	     - Database như quyển sổ , gồm rất nhiều tờ giấy.
 	     -  1 bảng có ít bảng ghi hay nhiều ko quan trọng. Quan trọng là có bao nhiêu tờ A4.
 	     - Tại sao hệ thống lại chậm ? Tại vì phải trải qua nhiều page.
+	     = >> Tư duy tối ưu : Giảm số page, block (Giảm số trang sách, mà kiến thức vẫn y nguyên)
     + 
 
 #### 2. CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
