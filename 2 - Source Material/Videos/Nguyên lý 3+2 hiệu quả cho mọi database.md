@@ -16,7 +16,7 @@ tags: [[Database]], [[Learning]]
  - Cách cũ : Cơ bản + where (giúp lọc dữ liệu)
  - Cách mới :  Tam giác để học mọi thứ trong database :
     + Pages/Block : Mức độ hoạt động nhỏ nhất, cách thức database lưu những bản ghi
-	    +     
+	     Dữ liệu những tờ A4, ta ghi duex 
     + 
 
 #### 2. CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
