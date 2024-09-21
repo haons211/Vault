@@ -31,8 +31,11 @@ tags: [[Database]], [[Learning]]
     ##### Cơ chế Read 
     - B1: Tìm xem ở pages nào?
     - B2: Đưa Pages đó lên memory
+    - B3 : Đưa cho người dùng
+    ##### Cơ chế Write
+    - B2 : Đưa Pages lên memory
     - 
-  
+     
 
   
  
