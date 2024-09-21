@@ -35,7 +35,7 @@ tags: [[Database]], [[Learning]]
     ##### Cơ chế Write
     - B1 : Đưa Pages chứa bản ghi lên memory
     -  B2 : Thực hiện thay đổi (U/D/)
-     
+    -  B3 : Ghi từ bộ nhớ xuống đĩa     
 
   
  
