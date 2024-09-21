@@ -24,7 +24,9 @@ tags: [[Database]], [[Learning]]
 	     = >> Tư duy tối ưu : Giảm số page, block (Giảm số trang sách, mà kiến thức vẫn y nguyên)
     + 
 
-##### Nguyên lí 2 :
+##### Nguyên lí 2 : Cache và 2 cơ chế Read&Write trong database
+
+
 #### 2. CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
 
 
