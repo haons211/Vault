@@ -19,7 +19,8 @@ tags: [[Database]], [[Learning]]
 	     - Dữ liệu những tờ A4, ta ghi dữ liệu mình vào các dòng trên tờ A4
 	     - ![[Pasted image 20240921090604.png]]
 	     - Database như quyển sổ , gồm rất nhiều tờ giấy.
-	     -  1 bảng có ít bảng ghi hay nhiều ko quan trọng. Quan trọng là có bao nh
+	     -  1 bảng có ít bảng ghi hay nhiều ko quan trọng. Quan trọng là có bao nhiêu tờ A4.
+	     - Tại sao hệ thống lại chậm ? Tại vì phải trải qua nhiều page.
     + 
 
 #### 2. CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
