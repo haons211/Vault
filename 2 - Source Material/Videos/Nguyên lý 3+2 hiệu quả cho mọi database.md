@@ -26,8 +26,8 @@ tags: [[Database]], [[Learning]]
 
 ##### Nguyên lí 2 : Cache và 2 cơ chế Read&Write trong database
 - Dữ liệu phải lưu ở chỗ nào đó , mà người trước lấy ra rồi thì người sau phải lấy ra nhanh hơn.
--  Như chúng ta đã biết, đơn vị nhỏ nhất của database là pages/ block . Vậy cache thì sẽ cache cái gì ? Không phải bản ghi , mà là 1 pages . Vậy chúng ta đã lấy những thông tin thừa thải bên ngoài bản ghi cần thiết .
- ==> Cách c
+-  Như chúng ta đã biết, đơn vị nhỏ nhất của database là pages/ block . Vậy cache thì sẽ cache cái gì ? Không phải bản ghi , mà là 1 pages . Vậy chúng ta đã lấy những thông tin thừa thải bên ngoài bản ghi cần thiết , gây tràn bộ nhớ với hệ thống lớn .
+ ==> Cách Cache : Cache 
 
 #### 2. CÁCH ÁP DỤNG TƯ DUY VÀO SỰ NGHIỆP, CUỘC SỐNG .
 
