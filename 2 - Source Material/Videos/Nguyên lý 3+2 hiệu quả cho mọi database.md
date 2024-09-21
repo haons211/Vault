@@ -33,8 +33,8 @@ tags: [[Database]], [[Learning]]
     - B2: Đưa Pages đó lên memory
     - B3 : Đưa cho người dùng
     ##### Cơ chế Write
-    - B2 : Đưa Pages lên memory
-    - 
+    - B1 : Đưa Pages chứa bản ghi lên memory
+    -  B2 : Thực hiện thay đổi (U/D/)
      
 
   
