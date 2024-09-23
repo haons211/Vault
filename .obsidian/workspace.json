@@ -11,12 +11,9 @@
             "id": "95f9f133ecb9f6cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
               }
             }
           },
@@ -165,11 +162,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e5381bf0f5ab0143",
+  "active": "95f9f133ecb9f6cc",
   "lastOpenFiles": [
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Images/Pasted image 20240923150529.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "1 - Rough Notes/21 Sep Webinar.md",
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
@@ -189,7 +186,6 @@
     "2 - Source Material/Images/Pasted image 20240920211858.png",
     "2 - Source Material/Images/Pasted image 20240920211840.png",
     "2 - Source Material/Images/Pasted image 20240920205801.png",
-    "2 - Source Material/Images/Pasted image 20240919054916.png",
     "6 - Main Notes/Props and State.md",
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
