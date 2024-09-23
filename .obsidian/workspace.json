@@ -11,9 +11,12 @@
             "id": "95f9f133ecb9f6cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
               }
             }
           },
@@ -164,8 +167,8 @@
   },
   "active": "95f9f133ecb9f6cc",
   "lastOpenFiles": [
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "1 - Rough Notes/22 Sep Prepare exam SWD.md",
     "6 - Main Notes/Pasted image 20240923122412.png",
     "1 - Rough Notes/21 Sep Webinar.md",
