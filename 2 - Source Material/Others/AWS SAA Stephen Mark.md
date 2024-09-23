@@ -17,8 +17,8 @@ Tags: [[AWS]] [[Architect]]
   -     Upper Speed or Lower Speed depend on you
 
 
-1.6. About your instructor
--  Data analyst, teacher , Big data , Solution Achitect.
+1.6 . About your instructor 
+     -  Data analyst, teacher , Big data , Solution Achitect.
 - Use Case  : - Build Sophisticated, scable
            - Applicable to diverse set of industries
            - Use cases include : Enterprise IT, Backup & Storage , Big Data .
@@ -33,12 +33,12 @@ Tags: [[AWS]] [[Architect]]
 	     - ![[Pasted image 20240923215949.png]]
          - Each Region has many AZs (min 3, max 6)
          - Each AZs is one or more datacenter
-         - They're connected with high bandwidth . They are separated , so that they'
+         - They're connected with high bandwidth . They are separated , so that they're careful on disater.
 	  
-	  
-	  - AWS Data Centers
       - AWS Edge Locations
-
+1.7
+ - sa
+ - 
 
 
 ### 3. Getting with AWS 
