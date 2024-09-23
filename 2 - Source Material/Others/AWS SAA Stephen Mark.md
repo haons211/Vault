@@ -17,14 +17,17 @@ Tags: [[AWS]] [[Architect]]
   -     Upper Speed or Lower Speed depend on you
 
 
+
+1.6 . About your instructor
+   - Data analyst, teacher , Big data , Solution Achitect.
 1.6 . About your instructor 
-     -  Data analyst, teacher , Big data , Solution Achitect.
-- Use Case  : - Build Sophisticated, scable
+	-   Data analyst, teacher , Big data , Solution Achitect.
+-       Use Case  : - Build Sophisticated, scable
            - Applicable to diverse set of industries
            - Use cases include : Enterprise IT, Backup & Storage , Big Data .
            -  Hosting website
            - Gaming Service
--  Global Infrastructure
+-     Global Infrastructure
       - AWS Region : 
          - AWS has regions all around the world : us-east-I , eu-west-3 ,...
          - A region is a cluster of data centers  
