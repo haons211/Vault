@@ -25,7 +25,11 @@ Tags: [[AWS]] [[Architect]]
            -  Hosting website
            - Gaming Service
 -  Global Infrastructure
-      - 
+      - AWS Region : 
+         - AWS has regions all around the world : us-east-I , eu-west-3 ,...
+      - AWS Availability Zones (AZ)
+      - AWS Data Centers
+      - AWS Edge Locations
 
 
 
