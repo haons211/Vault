@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/22 Sep Prepare exam SWD.md",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/22 Sep Prepare exam SWD.md",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/22 Sep Prepare exam SWD.md",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/22 Sep Prepare exam SWD.md"
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
               }
             }
           },
@@ -167,9 +167,9 @@
   },
   "active": "95f9f133ecb9f6cc",
   "lastOpenFiles": [
+    "1 - Rough Notes/22 Sep Prepare exam SWD.md",
     "6 - Main Notes/Pasted image 20240923122412.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
-    "1 - Rough Notes/22 Sep Prepare exam SWD.md",
     "1 - Rough Notes/21 Sep Webinar.md",
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "2 - Source Material/Images/Pasted image 20240921090604.png",
@@ -183,7 +183,6 @@
     "2 - Source Material/Images/Pasted image 20240920205801.png",
     "2 - Source Material/Images/Pasted image 20240919054916.png",
     "6 - Main Notes/Props and State.md",
-    "2 - Source Material/Images/Pasted image 20240920205143.png",
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
     "3 - Tags/Philosophy.md",
