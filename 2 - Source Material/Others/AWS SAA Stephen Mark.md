@@ -52,7 +52,7 @@ Tags: [[AWS]] [[Architect]]
 
 
 3.3.  About the UI changes in the course
-   - 
+   
 
 
 
