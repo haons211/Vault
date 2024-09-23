@@ -19,6 +19,14 @@ Tags: [[AWS]] [[Architect]]
 
 1.6. About your instructor
 -  Data analyst, teacher , Big data , Solution Achitect.
+- Use Case  : - Build Sophisticated, scable
+           - Applicable to diverse set of industries
+           - Use cases include : Enterprise IT, Backup & Storage , Big Data .
+           -  Hosting website
+           - Gaming Service
+-  Global Infrastructure
+      - 
+
 
 
 ### 3. Getting with AWS 
