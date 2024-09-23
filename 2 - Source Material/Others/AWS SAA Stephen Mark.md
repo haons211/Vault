@@ -23,8 +23,12 @@ Tags: [[AWS]] [[Architect]]
 
 ### 3. Getting with AWS 
 
-3.1 AWS Cloud Over
+3.1.  AWS Cloud Overview - Regions & AZ
+-  2006 : S3, EC2 
+-  2007 : Lauched in Europe
 
+3.2. Tour of the AWS Console & Services in AWS
+3.3.  About the UI changes in the course
 
 
 
