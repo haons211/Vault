@@ -11,8 +11,13 @@
             "id": "d61ff38d1ab3cae7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/21 Sep Power Automate Webinar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Rough Notes/21 Sep Power Automate Webinar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Rough Notes/21 Sep Power Automate Webinar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Rough Notes/21 Sep Power Automate Webinar.md"
+              }
             }
           },
           {
@@ -156,7 +165,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "46b5bc8715269d41",
+  "active": "d61ff38d1ab3cae7",
   "lastOpenFiles": [
     "test",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
@@ -167,7 +176,7 @@
     "2 - Source Material/Images/Pasted image 20240923150529.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
-    "1 - Rough Notes/21 Sep Webinar.md",
+    "1 - Rough Notes/21 Sep Power Automate Webinar.md",
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "5 - Templates/Day Note.md",
     "5 - Templates/Name Material.md",
