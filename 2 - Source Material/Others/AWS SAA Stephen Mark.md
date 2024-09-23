@@ -27,13 +27,7 @@ Tags: [[AWS]] [[Architect]]
 -  Global Infrastructure
       - AWS Region : 
          - AWS has regions all around the world : us-east-I , eu-west-3 ,...
-         - A region is a cluster of data centers
-      
-	  
-	  
-	  
-	  
-	  
+         - A region is a cluster of data centers  
 	  
 	  - AWS Availability Zones (AZ)
       - AWS Data Centers
