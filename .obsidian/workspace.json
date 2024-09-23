@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Name Material.md",
+                "file": "5 - Templates/A Day Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Templates/Name Material.md",
+                "file": "5 - Templates/A Day Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Templates/Name Material.md",
+                "file": "5 - Templates/A Day Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Templates/Name Material.md"
+                "file": "5 - Templates/A Day Note.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "95f9f133ecb9f6cc",
   "lastOpenFiles": [
-    "5 - Templates/Full Note.md",
     "5 - Templates/FPT Course Name.md",
+    "5 - Templates/A Day Note.md",
     "5 - Templates/Name Material.md",
+    "5 - Templates/Full Note.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "1 - Rough Notes/22 Sep Prepare exam SWD.md",
@@ -203,7 +204,6 @@
     "1 - Rough Notes/Philosopy.md",
     "1 - Rough Notes/Quick Learn MLN.md",
     "2 - Source Material/Others/PRN212 Slide Course.md",
-    "2 - Source Material/Others/Unity Slide Course.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
