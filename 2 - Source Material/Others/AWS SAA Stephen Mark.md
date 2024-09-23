@@ -10,6 +10,17 @@ Tags: [[AWS]] [[Architect]]
 
 
 
+### 1. Introduction
+
+
+1.5
+  -     Upper Speed or Lower Speed depend on you
+
+
+1.6. About your instructor
+-  Frech 
+
+
 
 
 

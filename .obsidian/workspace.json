@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -151,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +167,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "95f9f133ecb9f6cc",
+  "active": "46b5bc8715269d41",
   "lastOpenFiles": [
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
