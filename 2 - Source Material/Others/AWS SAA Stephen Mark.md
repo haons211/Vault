@@ -48,10 +48,11 @@ Tags: [[AWS]] [[Architect]]
    
 
 3.2. Tour of the AWS Console & Services in AWS
-   - 
+   - Some service depend on region like EC2 ,.. . But some service is global usage like Route53 . You can see it when you click on service, it will show Global or region name
 
 
 3.3.  About the UI changes in the course
+   - 
 
 
 
