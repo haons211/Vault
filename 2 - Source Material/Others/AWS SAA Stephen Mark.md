@@ -18,8 +18,12 @@ Tags: [[AWS]] [[Architect]]
 
 
 1.6. About your instructor
--  Frech 
+-  Data analyst, teacher , Big data , Solution Achitect.
 
+
+### 3. Getting with AWS 
+
+3.1 AWS Cloud Over
 
 
 
