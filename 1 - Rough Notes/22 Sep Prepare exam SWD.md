@@ -10,6 +10,9 @@ Tags:
 
 
 ![[Pasted image 20240923122412.png]]
+deployment : node
+UML : model element
+interact diagram : sequence, communication
 
 # References
 
