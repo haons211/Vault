@@ -30,6 +30,7 @@ Tags: [[AWS]] [[Architect]]
          - A region is a cluster of data centers  
 	  
 	  - AWS Availability Zones (AZ)
+	  
       - AWS Data Centers
       - AWS Edge Locations
 
