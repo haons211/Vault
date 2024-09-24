@@ -5,7 +5,7 @@ Teacher :
 
 Course Material : https://j2team.dev/go/018022db
 
-Tags: [[AWS]] [[Architect]]
+Tags: [[AWS]] [[Architect]] [[Learning]]
 # AWS SAA Stephen Mark
 
 
@@ -71,6 +71,21 @@ Tags: [[AWS]] [[Architect]]
 
 
 
+
+
+
+
+
+
+
+
+
+
+### 4. IAM & AWS CLI
+   4.1 IAM Introduction Users,Groups
+
+   4.2 IAM Users & Groups Hands On
+   4.3 
 
 
 
