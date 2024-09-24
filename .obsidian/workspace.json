@@ -4,37 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "250f0b5e2b8a9abd",
+        "id": "055b6d6584d14646",
         "type": "tabs",
-        "dimension": 51.059850374064844,
         "children": [
           {
-            "id": "53df949f2edc42a3",
+            "id": "d0542f74bd5456b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6c789094b6355626",
-        "type": "tabs",
-        "dimension": 48.94014962593516,
-        "children": [
-          {
-            "id": "806cae981a3eb7ee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
               }
             }
           }
@@ -88,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -104,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md"
               }
             }
           },
@@ -157,15 +140,23 @@
             }
           },
           {
-            "id": "a69e865d697bd7f0",
+            "id": "ce9fe310aed01032",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "f2180b33f883a6de",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,21 +175,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "806cae981a3eb7ee",
+  "active": "d0542f74bd5456b3",
   "lastOpenFiles": [
     "2 - Source Material/Books/Flow  Dòng chảy.md",
-    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
-    "3 - Tags/Life Style.md",
     "6 - Main Notes/Pasted image 20240924113910.png",
-    "1 - Rough Notes/21 Sep Power Automate Webinar.md",
+    "3 - Tags/Life Style.md",
     "1 - Rough Notes/Untitled.md",
-    "conflict-files-obsidian-git.md",
+    "1 - Rough Notes/21 Sep Power Automate Webinar.md",
+    "test",
+    "2 - Source Material/Others/PRN212 Slide Course.md",
     "6 - Main Notes/Pasted image 20240923215949.png",
+    "2 - Source Material/Others/Unity Slide Course.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Images/Pasted image 20240923150529.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "1 - Rough Notes/21 Sep Webinar.md",
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "5 - Templates/Day Note.md",
     "5 - Templates/Name Material.md",
@@ -229,7 +221,6 @@
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
     "2 - Source Material/Images",
-    "2 - Source Material/Others",
-    "2 - Source Material/Articles"
+    "2 - Source Material/Others"
   ]
 }

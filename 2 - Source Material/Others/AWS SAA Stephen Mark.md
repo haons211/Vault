@@ -55,32 +55,6 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
    
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 4. IAM & AWS CLI
    
    4.1 IAM Introduction Users,Groups
