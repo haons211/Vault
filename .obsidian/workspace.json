@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5330cc310c648850",
+        "id": "250f0b5e2b8a9abd",
         "type": "tabs",
+        "dimension": 51.059850374064844,
         "children": [
           {
-            "id": "a289df54d3a26f2a",
+            "id": "53df949f2edc42a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,11 +24,12 @@
         ]
       },
       {
-        "id": "250f0b5e2b8a9abd",
+        "id": "6c789094b6355626",
         "type": "tabs",
+        "dimension": 48.94014962593516,
         "children": [
           {
-            "id": "53df949f2edc42a3",
+            "id": "806cae981a3eb7ee",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -86,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Books/Flow  Dòng chảy.md"
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
               }
             }
           },
@@ -183,10 +184,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a289df54d3a26f2a",
+  "active": "806cae981a3eb7ee",
   "lastOpenFiles": [
-    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Books/Flow  Dòng chảy.md",
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "3 - Tags/Life Style.md",
     "6 - Main Notes/Pasted image 20240924113910.png",
