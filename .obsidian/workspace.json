@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -180,7 +179,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4ca08df3a96ac703",
+  "active": "46b5bc8715269d41",
   "lastOpenFiles": [
     "6 - Main Notes/Pasted image 20240924113910.png",
     "1 - Rough Notes/21 Sep Power Automate Webinar.md",
