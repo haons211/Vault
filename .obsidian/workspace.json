@@ -24,13 +24,8 @@
             "id": "4ca08df3a96ac703",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,15 +170,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "46b5bc8715269d41",
+  "active": "4ca08df3a96ac703",
   "lastOpenFiles": [
+    "2 - Source Material/Books/Flow  Dòng chảy.md",
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+    "3 - Tags/Life Style.md",
+    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "6 - Main Notes/Pasted image 20240924113910.png",
     "1 - Rough Notes/21 Sep Power Automate Webinar.md",
     "1 - Rough Notes/Untitled.md",
-    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "conflict-files-obsidian-git.md",
     "6 - Main Notes/Pasted image 20240923215949.png",
-    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Images/Pasted image 20240923150529.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
@@ -207,7 +200,6 @@
     "2 - Source Material/Images/Pasted image 20240918164155.png",
     "2 - Source Material/Images/Pasted image 20240919054742.png",
     "2 - Source Material/Images/Pasted image 20240920211858.png",
-    "2 - Source Material/Images/Pasted image 20240920211840.png",
     "6 - Main Notes/Props and State.md",
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
@@ -216,8 +208,6 @@
     "3 - Tags/System Design.md",
     "6 - Main Notes/Event trong .NET.md",
     "3 - Tags/Angular.md",
-    "3 - Tags/Game.md",
-    "6 - Main Notes/Cách sử dụng Route trong Angular.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
