@@ -4,32 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "efa166cc70a1d801",
+        "id": "5330cc310c648850",
         "type": "tabs",
         "children": [
           {
-            "id": "95f9f133ecb9f6cc",
+            "id": "a289df54d3a26f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "250f0b5e2b8a9abd",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4ca08df3a96ac703",
+            "id": "53df949f2edc42a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -95,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md"
+              }
             }
           },
           {
@@ -144,7 +156,7 @@
             }
           },
           {
-            "id": "3ea715df48c5f260",
+            "id": "a69e865d697bd7f0",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -156,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +183,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4ca08df3a96ac703",
+  "active": "a289df54d3a26f2a",
   "lastOpenFiles": [
-    "2 - Source Material/Books/Flow  Dòng chảy.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
-    "3 - Tags/Life Style.md",
+    "2 - Source Material/Books/Flow  Dòng chảy.md",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+    "3 - Tags/Life Style.md",
     "6 - Main Notes/Pasted image 20240924113910.png",
     "1 - Rough Notes/21 Sep Power Automate Webinar.md",
     "1 - Rough Notes/Untitled.md",
