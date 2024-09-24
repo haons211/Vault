@@ -82,20 +82,33 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
 
 
 ### 4. IAM & AWS CLI
+   
    4.1 IAM Introduction Users,Groups
      - IAM is global Service
      -  Users are people within your organization, and can be grouped
      - ![[Pasted image 20240924113910.png]]
      - User don't have to belong to a group, and user can belong to mutiple groups.
-     - Why gr
+     - Why do you create users and create group?
+        - Allowing user to account and we can them Permissions
+     - IAM : Permissions:
+        -  Users and Groups can be assigned JSON documents called Policies.
+        - In AWS you apply "least privilege principle" : don't give more permissions than a user needs.
   
    4.2 IAM Users & Groups Hands On
+     - 
+  
    4.3 IAM Policies
+   
    4.4 IAM Policies Hands On
+   
    4.5 IAM MFA Overview
+   
    4.6 IAM MFA Hands On
+   
    4.7 AWS Access Keys, CLI and SDK
+   
    4.10 AWS CLI Setup on Linux
+   
    4.11 AWS CLI Hands On
 
 
