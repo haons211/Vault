@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
+                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md"
               }
             }
           },
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +177,8 @@
   },
   "active": "0fc12b705767245e",
   "lastOpenFiles": [
+    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
     "2 - Source Material/Books/Flow  Dòng chảy.md",
@@ -187,7 +191,6 @@
     "2 - Source Material/Others/PRN212 Slide Course.md",
     "6 - Main Notes/Pasted image 20240923215949.png",
     "2 - Source Material/Others/Unity Slide Course.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Images/Pasted image 20240923150529.png",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
@@ -199,7 +202,6 @@
     "1 - Rough Notes/22 Sep Prepare exam SWD.md",
     "2 - Source Material/Images/Pasted image 20240923122412.png",
     "2 - Source Material/Images/Pasted image 20240921090604.png",
-    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "2 - Source Material/Images/Pasted image 20240920213342.png",
     "2 - Source Material/Images/Pasted image 20240920213233.png",
     "2 - Source Material/Images/Pasted image 20240918164155.png",
