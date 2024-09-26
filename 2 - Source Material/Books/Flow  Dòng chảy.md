@@ -19,4 +19,7 @@ tags: [[Life Style]]
 > " Một trong những chức năng chính của mọi nền văn hóa là bảo vệ các thành viên của nó khỏi sự hỗn loạn, để cam đoan với họ về tầm quan trọng cũng như thành công sau cùng của họ
 
 
+34
+>Khi không dựa vào nỗi đau đớn, các hệ thống xã hội sử dụng sự khoái lạc như sự khích lệ cho việc chấp nhận các chuẩn mực.  “Đời sống tốt đẹp” được hứa hẹn như một sự tưởng thưởng cho một cuộc đời làm lụng cần mẫn và sự tuân thủ luật pháp được xây dựng dựa trên những khao khát nằm trong lập trình di truyền của chúng ta
+
 

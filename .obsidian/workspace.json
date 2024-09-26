@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e966deaabc39d970",
+        "id": "29194092ae73502b",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc12b705767245e",
+            "id": "928c0076b2e66b99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
+                "staged": false
               }
             }
           }
@@ -87,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +142,7 @@
             }
           },
           {
-            "id": "70f9a2987d2d6406",
+            "id": "bf5aa778a58b1ce4",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -160,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +168,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0fc12b705767245e",
+  "active": "928c0076b2e66b99",
   "lastOpenFiles": [
+    "2 - Source Material/Books/Flow  Dòng chảy.md",
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+    "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
-    "2 - Source Material/Books/Flow  Dòng chảy.md",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "6 - Main Notes/Pasted image 20240924113910.png",
     "3 - Tags/Life Style.md",
@@ -192,7 +186,6 @@
     "6 - Main Notes/Pasted image 20240923215949.png",
     "2 - Source Material/Others/Unity Slide Course.md",
     "2 - Source Material/Images/Pasted image 20240923150529.png",
-    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "5 - Templates/Day Note.md",
     "5 - Templates/Name Material.md",
@@ -214,7 +207,6 @@
     "1 - Rough Notes/Tóm tắt b.md",
     "3 - Tags/System Design.md",
     "6 - Main Notes/Event trong .NET.md",
-    "3 - Tags/Angular.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
