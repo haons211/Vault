@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21050bcec58e88ee",
+        "id": "6df30bc7e9e52a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae142caa78d6669",
+            "id": "8d0e63475c25504f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e5381bf0f5ab0143",
+  "active": "8d0e63475c25504f",
   "lastOpenFiles": [
+    "6 - Main Notes/Pasted image 20240930142146.png",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+    "2 - Source Material/Images/Pasted image 20240930141105.png",
+    "2 - Source Material/Images/Pasted image 20240930141050.png",
     "2 - Source Material/Images/Pasted image 20240930133147.png",
     "2 - Source Material/Images/Pasted image 20240930132147.png",
     "2 - Source Material/Images/Pasted image 20240930132135.png",
@@ -187,7 +191,6 @@
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "2 - Source Material/Images/Pasted image 20240924113910.png",
     "3 - Tags/Life Style.md",
@@ -205,9 +208,6 @@
     "5 - Templates/FPT Course Name.md",
     "5 - Templates/A Day Note.md",
     "1 - Rough Notes/22 Sep Prepare exam SWD.md",
-    "2 - Source Material/Images/Pasted image 20240923122412.png",
-    "2 - Source Material/Images/Pasted image 20240921090604.png",
-    "2 - Source Material/Images/Pasted image 20240920213342.png",
     "6 - Main Notes/Props and State.md",
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
