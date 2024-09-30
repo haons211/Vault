@@ -112,11 +112,33 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
 	- Access key ID : username 
 	- Secret Access Key : password
 	- What's the AWS CLI?
-    
-   
+	   - Enable to interact
+	- What's the AWS SDK?
+	   - Language-specific APIs
+	   -  Embedded within your application
+      
    4.10 AWS CLI Setup on Linux
    
    4.11 AWS CLI Hands On
+   
+   4.13 AWS CloudShell
+    - CloudShell happend on console
+   
+   4.14 IAM Roles for AWS Services
+    - The last component in IAM
+    -  Có nghĩa là bạn cung cấp quyền cho dịch vụ (chứ không phải người dùng) quyền để thực hiện các hành động trên tài nguyên của bạn
+         - Ví dụ : Khi dùng EC2 instance , cần tải file lên S3, bạn sẽ tạo 1 IAM Role cho EC2 với quyền "putObject" lên S3.
+  
+   4.15 IAM Roles Hands On
+   
+   4.16 IAM Security Tools
+   
+   4.17 IAM Security Tools Hands On
+   
+   4.18 IAM Best Practices
+   
+   4.19 IAM Summary
+
 
 
 
