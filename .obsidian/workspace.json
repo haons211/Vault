@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md"
               }
             }
           },
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +177,10 @@
   },
   "active": "8d0e63475c25504f",
   "lastOpenFiles": [
-    "6 - Main Notes/Pasted image 20240930142146.png",
+    "AWS SAA Stephen Mark.pdf",
+    "6 - Main Notes/Pasted image 20240930155909.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+    "2 - Source Material/Images/Pasted image 20240930142146.png",
     "2 - Source Material/Images/Pasted image 20240930141105.png",
     "2 - Source Material/Images/Pasted image 20240930141050.png",
     "2 - Source Material/Images/Pasted image 20240930133147.png",
@@ -198,9 +202,7 @@
     "1 - Rough Notes/21 Sep Power Automate Webinar.md",
     "test",
     "2 - Source Material/Others/PRN212 Slide Course.md",
-    "2 - Source Material/Images/Pasted image 20240923215949.png",
     "2 - Source Material/Others/Unity Slide Course.md",
-    "2 - Source Material/Images/Pasted image 20240923150529.png",
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "5 - Templates/Day Note.md",
     "5 - Templates/Name Material.md",

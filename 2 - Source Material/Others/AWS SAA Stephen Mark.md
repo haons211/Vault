@@ -128,17 +128,32 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
     - The last component in IAM
     -  Có nghĩa là bạn cung cấp quyền cho dịch vụ (chứ không phải người dùng) quyền để thực hiện các hành động trên tài nguyên của bạn
          - Ví dụ : Khi dùng EC2 instance , cần tải file lên S3, bạn sẽ tạo 1 IAM Role cho EC2 với quyền "putObject" lên S3.
+    - Comoon Roles : 
+       - EC2 Instance roles
+       -  Lambda Function Roles
+       -  Roles for CloudFormation
   
    4.15 IAM Roles Hands On
    
    4.16 IAM Security Tools
+    - IAM Credentials Report (account -level) : lists all your account's users and status of their credentials
+    - IAM Access Advisor (user-level) : show service permissions grants to a  user and when were last accessed
+        - You can use it to revise(edit) your policies . 
+        - User root thường dùng nó để cho các previlige tới IAM user
+    
    
    4.17 IAM Security Tools Hands On
    
    4.18 IAM Best Practices
+   - Don't use the root except account setup
+   - One physical user = One AWS user
+   - Create a strong password policy
+   - Use and enforce 
+   - create and use Role for service
+   - never share IAM users and Access Keys
    
    4.19 IAM Summary
-
+      ![[Pasted image 20240930155909.png]]
 
 
 
