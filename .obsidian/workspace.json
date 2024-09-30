@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "29194092ae73502b",
+        "id": "21050bcec58e88ee",
         "type": "tabs",
         "children": [
           {
-            "id": "928c0076b2e66b99",
+            "id": "0ae142caa78d6669",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
-                "staged": false
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md"
+              }
             }
           },
           {
@@ -142,7 +148,7 @@
             }
           },
           {
-            "id": "bf5aa778a58b1ce4",
+            "id": "d4dd4ea548674cd6",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -154,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +175,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "928c0076b2e66b99",
+  "active": "0ae142caa78d6669",
   "lastOpenFiles": [
+    "6 - Main Notes/Pasted image 20240930080453.png",
+    "1 - Rough Notes/29 Sep.md",
+    "1 - Rough Notes/Power App với anh Huy Harrison.md",
+    "6 - Main Notes/Pasted image 20240928101207.png",
     "2 - Source Material/Books/Flow  Dòng chảy.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
@@ -199,14 +210,11 @@
     "2 - Source Material/Images/Pasted image 20240920213233.png",
     "2 - Source Material/Images/Pasted image 20240918164155.png",
     "2 - Source Material/Images/Pasted image 20240919054742.png",
-    "2 - Source Material/Images/Pasted image 20240920211858.png",
     "6 - Main Notes/Props and State.md",
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
     "3 - Tags/Philosophy.md",
     "1 - Rough Notes/Tóm tắt b.md",
-    "3 - Tags/System Design.md",
-    "6 - Main Notes/Event trong .NET.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",

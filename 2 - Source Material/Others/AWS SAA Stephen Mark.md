@@ -72,14 +72,47 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
      - 
   
    4.3 IAM Policies
-   
+    ![[Pasted image 20240930080453.png]]
+      -  inheritance
+      -  IAM Policies Structure 
+          - Version : consist of day
+          - Id : Identifier for policy(optional)
+          - Statement (require)
+             - Sid : an identifier for statements
+             - Effect : Allow or Deny
+             - Principal : account/user/role who this policy applied to
+             - Action : list of action policy allows or denies
+             - Resource : list of resources to which the action applied to
+
    4.4 IAM Policies Hands On
+     -   "*"  on AWS is meaning everything
+     - 
    
    4.5 IAM MFA Overview
+    - IAM - Password Policy
+     - Strong password
+     - In AWS, you can setup a password policy : lower, upper case, number or non-alphanumberic character 
+     -  Allow all IAM users to change their own passwords
+     - Require user to change their password after time (password expiration)
+     - Prevent password re-user
+    - MFA - Multi Factor Auth
+    -  very recommend 
+    - Can protect your RootAccounts and IAM usser
+    - MFA = password you know + security device you own
+    - MFA devices options in AWS : google auth, Authy
    
    4.6 IAM MFA Hands On
+     -
    
    4.7 AWS Access Keys, CLI and SDK
+    - How can users access AWS?
+       - Console (password + MFA
+	   - CLI : access key
+	   - SDK - for code : protected by access keys
+	- Access key ID : username 
+	- Secret Access Key : password
+	- What's the AWS CLI?
+    
    
    4.10 AWS CLI Setup on Linux
    
