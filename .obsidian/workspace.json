@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Storage trong AWS.md",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Storage trong AWS.md",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Storage trong AWS.md",
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Storage trong AWS.md"
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md"
               }
             }
           },
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,14 +173,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8d0e63475c25504f",
+  "active": "e5381bf0f5ab0143",
   "lastOpenFiles": [
-    "3 - Tags/Storage.md",
     "6 - Main Notes/Storage trong AWS.md",
+    "3 - Tags/Storage.md",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
-    "6 - Main Notes/Pasted image 20240930162823.png",
+    "2 - Source Material/Images/Pasted image 20240930162823.png",
     "AWS SAA Stephen Mark.pdf",
-    "6 - Main Notes/Pasted image 20240930155909.png",
+    "2 - Source Material/Images/Pasted image 20240930155909.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Images/Pasted image 20240930142146.png",
     "2 - Source Material/Images/Pasted image 20240930141105.png",

@@ -182,8 +182,7 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
         - How much storage space 
             - Network - attached (EBS (vitual drives) EFS)
             - Hardware (EC2 Instance Store)
-              *Trong AWS, các loại lưu trữ được chia làm 2 nhóm chính là lưu trữ gắn kết qua mạng (lưu trữ độc lập với instance nên instance hư hỏng cũng không sao ) và lưu trữ trên phần cứng( lưu trữ gắn liền với instance)* 
-                 EBS (Elastic Block Store) : Lưu trữ theo dạng khối , mỗi instance chỉ trỏ được vàomootj 
+              [[Storage trong AWS]]
   5.1 Create an EC2 Instance with EC2 User Data to have a Website Hands On
   5.1 EC2 Instance Types Basics
   5.1 Security Groups & Classic Ports Overview
