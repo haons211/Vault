@@ -163,6 +163,38 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
 
 
 
+
+### 5. EC2 Fundamentals
+
+  5.1 AWS Budget Setup
+
+
+  5.1 EC2 Basics 
+    - EC2 is the most common
+    -  EC2 is infrastructure as a Service
+    -  It consists of capability of :
+        ![[Pasted image 20240930162823.png]]
+    - Knowing EC2 is fundamental to understand how the Cloud works
+    - EC2 sizing & configuration
+        - OS
+        - CPU 
+        - RRAM
+        - How much storage space 
+            - Network - attached (EBS (vitual drives) EFS)
+            - Hardware (EC2 Instance Store)
+              *Trong AWS, các loại lưu trữ được chia làm 2 nhóm chính là lưu trữ gắn kết qua mạng (lưu trữ độc lập với instance nên instance hư hỏng cũng không sao ) và lưu trữ trên phần cứng( lưu trữ gắn liền với instance)* 
+                 EBS (Elastic Block Store) : Lưu trữ theo dạng khối , mỗi instance chỉ trỏ được vàomootj 
+  5.1 Create an EC2 Instance with EC2 User Data to have a Website Hands On
+  5.1 EC2 Instance Types Basics
+  5.1 Security Groups & Classic Ports Overview
+  5.1 Security Groups Hands On
+  5.1 SSH Overview
+  5.1 How to SSH using Windows 10
+  5.1
+  5.1
+  5.1
+
+
 # References
 
 

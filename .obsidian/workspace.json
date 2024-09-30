@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+                "file": "6 - Main Notes/Storage trong AWS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+                "file": "6 - Main Notes/Storage trong AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+                "file": "6 - Main Notes/Storage trong AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md"
+                "file": "6 - Main Notes/Storage trong AWS.md"
               }
             }
           },
@@ -177,6 +176,10 @@
   },
   "active": "8d0e63475c25504f",
   "lastOpenFiles": [
+    "3 - Tags/Storage.md",
+    "6 - Main Notes/Storage trong AWS.md",
+    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+    "6 - Main Notes/Pasted image 20240930162823.png",
     "AWS SAA Stephen Mark.pdf",
     "6 - Main Notes/Pasted image 20240930155909.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
@@ -186,7 +189,6 @@
     "2 - Source Material/Images/Pasted image 20240930133147.png",
     "2 - Source Material/Images/Pasted image 20240930132147.png",
     "2 - Source Material/Images/Pasted image 20240930132135.png",
-    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "2 - Source Material/Images/Pasted image 20240930080453.png",
     "1 - Rough Notes/29 Sep.md",
     "1 - Rough Notes/Power App với anh Huy Harrison.md",
@@ -196,7 +198,6 @@
     "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "2 - Source Material/Images/Pasted image 20240924113910.png",
     "3 - Tags/Life Style.md",
     "1 - Rough Notes/Untitled.md",
     "1 - Rough Notes/21 Sep Power Automate Webinar.md",
@@ -214,14 +215,12 @@
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
     "3 - Tags/Philosophy.md",
-    "1 - Rough Notes/Tóm tắt b.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
-    "2 - Source Material/Images",
-    "2 - Source Material/Others"
+    "2 - Source Material/Images"
   ]
 }
