@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300.5
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "430ff5ad3b64abd3",
+            "id": "5903df52c480e5e9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -173,11 +173,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e5381bf0f5ab0143",
+  "active": "8d0e63475c25504f",
   "lastOpenFiles": [
+    "1 - Rough Notes/Brief cho EXE101.md",
+    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "6 - Main Notes/Storage trong AWS.md",
     "3 - Tags/Storage.md",
-    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "2 - Source Material/Images/Pasted image 20240930162823.png",
     "AWS SAA Stephen Mark.pdf",
     "2 - Source Material/Images/Pasted image 20240930155909.png",
@@ -213,7 +214,6 @@
     "6 - Main Notes/Props and State.md",
     "3 - Tags/Learning.md",
     "3 - Tags/Lenin.md",
-    "3 - Tags/Philosophy.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
