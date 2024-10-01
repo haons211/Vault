@@ -23,3 +23,7 @@ tags: [[Life Style]]
 >Khi không dựa vào nỗi đau đớn, các hệ thống xã hội sử dụng sự khoái lạc như sự khích lệ cho việc chấp nhận các chuẩn mực.  “Đời sống tốt đẹp” được hứa hẹn như một sự tưởng thưởng cho một cuộc đời làm lụng cần mẫn và sự tuân thủ luật pháp được xây dựng dựa trên những khao khát nằm trong lập trình di truyền của chúng ta
 
 
+43
+>  ý thức là kết quả của những diễn trình sinh học.
+
+
