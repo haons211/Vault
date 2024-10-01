@@ -27,3 +27,15 @@ tags: [[Life Style]]
 >  ý thức là kết quả của những diễn trình sinh học.
 
 
+>  ý thức đã phát triển khả năng ghi đè lên những mệnh lệnh di truyền và thiết lập chuỗi hành động độc lập của riêng nó.
+
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=44&selection=4,29,5,70|15464-flow-dong-chay-thuviensach.vn, page 44]]
+
+>  ý thức là thông tin được sắp xếp có chủ đích.
+
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=48&selection=11,38,12,9|15464-flow-dong-chay-thuviensach.vn, page 48]]
+
+>  ý định là lực đã giữ cho thông tin trong ý thức đi theo một trật tự
+
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=49&selection=8,25,9,19|15464-flow-dong-chay-thuviensach.vn, page 49]]
+
