@@ -39,3 +39,10 @@ tags: [[Life Style]]
 
 [[15464-flow-dong-chay-thuviensach.vn.pdf#page=49&selection=8,25,9,19|15464-flow-dong-chay-thuviensach.vn, page 49]]
 
+> thông tin chúng ta cho phép đi vào ý thức trở nên cực kỳ quan trọng; thực tế, nó chính là thứ quyết định nội dung và chất lượng cuộc sống.
+
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=54&selection=11,32,13,16|15464-flow-dong-chay-thuviensach.vn, page 54]]
+
+>  Khi sự kiện đang diễn ra phù hợp với một kiểu sự kiện đã được biết trước đó, nó sẽ được nhận diện.
+
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=55&selection=3,62,5,10|15464-flow-dong-chay-thuviensach.vn, page 55]]
