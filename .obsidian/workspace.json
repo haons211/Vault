@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6df30bc7e9e52a3b",
+        "id": "9950527391626b7e",
         "type": "tabs",
-        "dimension": 58.98123324396783,
         "children": [
           {
-            "id": "8d0e63475c25504f",
+            "id": "d3aa971022027856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "348829e1743aeeff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "dbb70711bb7b1fa6",
-        "type": "tabs",
-        "dimension": 41.01876675603218,
-        "children": [
-          {
-            "id": "d105c384b7af402a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -119,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
+                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
               }
             }
           },
@@ -207,20 +174,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "348829e1743aeeff",
+  "active": "d3aa971022027856",
   "lastOpenFiles": [
-    "2 - Source Material/Books/Flow  Dòng chảy.md",
-    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
-    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes/Storage trong AWS.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "6 - Main Notes/Untitled 1.md",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+    "2 - Source Material/Books/Flow  Dòng chảy.md",
+    "6 - Main Notes/Untitled.md",
     "1 - Rough Notes/Brief cho EXE101.md",
-    "6 - Main Notes/Storage trong AWS.md",
     "3 - Tags/Storage.md",
     "2 - Source Material/Images/Pasted image 20240930162823.png",
     "AWS SAA Stephen Mark.pdf",
     "2 - Source Material/Images/Pasted image 20240930155909.png",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "2 - Source Material/Images/Pasted image 20240930142146.png",
     "2 - Source Material/Images/Pasted image 20240930141105.png",
     "2 - Source Material/Images/Pasted image 20240930141050.png",
