@@ -11,8 +11,13 @@
             "id": "a2b6e8eb464ae15c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 - Source Material/Others/AWS SAA Stephen Mark.md"
+              }
             }
           },
           {
@@ -167,6 +177,7 @@
   },
   "active": "a2b6e8eb464ae15c",
   "lastOpenFiles": [
+    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
     "3 - Tags/Microservices.md",
     "3 - Tags/Java.md",
@@ -193,7 +204,6 @@
     "1 - Rough Notes/29 Sep.md",
     "1 - Rough Notes/Power App với anh Huy Harrison.md",
     "2 - Source Material/Images/Pasted image 20240928101207.png",
-    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/Life Style.md",
     "1 - Rough Notes/Untitled.md",

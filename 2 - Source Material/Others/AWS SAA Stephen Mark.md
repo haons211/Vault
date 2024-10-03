@@ -178,11 +178,19 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
     - EC2 sizing & configuration
         - OS
         - CPU 
-        - RRAM
+        - RAM
         - How much storage space 
             - Network - attached (EBS (vitual drives) EFS)
             - Hardware (EC2 Instance Store)
               [[Storage trong AWS]]
+        - Netword card : 
+        - Firewall rules : security group
+        - Bootstrap script (configure at first launch): EC2 User Data : kịch bản khởi động
+        - Can hands on more ,.....
+    - EC2 User Data 
+       - meaning launching commands when a machine starts
+       - installing update , installing software , .... anything you can think of
+       - EC2 User Data Scripts runs with the root user
   5.1 Create an EC2 Instance with EC2 User Data to have a Website Hands On
   5.1 EC2 Instance Types Basics
   5.1 Security Groups & Classic Ports Overview
