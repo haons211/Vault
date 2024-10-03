@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9950527391626b7e",
+        "id": "4f63d42218824d10",
         "type": "tabs",
         "children": [
           {
-            "id": "d3aa971022027856",
+            "id": "a2b6e8eb464ae15c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +138,7 @@
             }
           },
           {
-            "id": "179905ab93a9cb0c",
+            "id": "53225a7a82e71340",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -174,10 +165,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d3aa971022027856",
+  "active": "a2b6e8eb464ae15c",
   "lastOpenFiles": [
-    "6 - Main Notes/Storage trong AWS.md",
+    "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
+    "3 - Tags/Microservices.md",
+    "3 - Tags/Java.md",
+    "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+    "6 - Main Notes/Storage trong AWS.md",
     "6 - Main Notes/Untitled 1.md",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
@@ -198,7 +193,6 @@
     "1 - Rough Notes/29 Sep.md",
     "1 - Rough Notes/Power App với anh Huy Harrison.md",
     "2 - Source Material/Images/Pasted image 20240928101207.png",
-    "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
     "3 - Tags/Life Style.md",
@@ -212,8 +206,6 @@
     "5 - Templates/Name Material.md",
     "5 - Templates/Full Note.md",
     "5 - Templates/FPT Course Name.md",
-    "5 - Templates/A Day Note.md",
-    "1 - Rough Notes/22 Sep Prepare exam SWD.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
