@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/3 Oct.md",
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/3 Oct.md",
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/3 Oct.md",
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/3 Oct.md"
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md"
               }
             }
           },
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +175,7 @@
   },
   "active": "9234f93a260d556d",
   "lastOpenFiles": [
+    "6 - Main Notes/Pasted image 20241003164248.png",
     "1 - Rough Notes/3 Oct.md",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
@@ -214,7 +214,6 @@
     "1 - Rough Notes/20 Sep Webinar WeCommit.md",
     "5 - Templates/Day Note.md",
     "5 - Templates/Name Material.md",
-    "5 - Templates/Full Note.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
