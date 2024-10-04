@@ -55,32 +55,6 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
    
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 4. IAM & AWS CLI
    
    4.1 IAM Introduction Users,Groups
@@ -98,18 +72,88 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
      - 
   
    4.3 IAM Policies
-   
+    ![[Pasted image 20240930080453.png]]
+      -  inheritance
+      -  IAM Policies Structure 
+          - Version : consist of day
+          - Id : Identifier for policy(optional)
+          - Statement (require)
+             - Sid : an identifier for statements
+             - Effect : Allow or Deny
+             - Principal : account/user/role who this policy applied to
+             - Action : list of action policy allows or denies
+             - Resource : list of resources to which the action applied to
+
    4.4 IAM Policies Hands On
+     -   "*"  on AWS is meaning everything
+     - 
    
    4.5 IAM MFA Overview
+    - IAM - Password Policy
+     - Strong password
+     - In AWS, you can setup a password policy : lower, upper case, number or non-alphanumberic character 
+     -  Allow all IAM users to change their own passwords
+     - Require user to change their password after time (password expiration)
+     - Prevent password re-user
+    - MFA - Multi Factor Auth
+    -  very recommend 
+    - Can protect your RootAccounts and IAM usser
+    - MFA = password you know + security device you own
+    - MFA devices options in AWS : google auth, Authy
    
    4.6 IAM MFA Hands On
+     -
    
    4.7 AWS Access Keys, CLI and SDK
-   
+    - How can users access AWS?
+       - Console (password + MFA
+	   - CLI : access key
+	   - SDK - for code : protected by access keys
+	- Access key ID : username 
+	- Secret Access Key : password
+	- What's the AWS CLI?
+	   - Enable to interact
+	- What's the AWS SDK?
+	   - Language-specific APIs
+	   -  Embedded within your application
+      
    4.10 AWS CLI Setup on Linux
    
    4.11 AWS CLI Hands On
+   
+   4.13 AWS CloudShell
+    - CloudShell happend on console
+   
+   4.14 IAM Roles for AWS Services
+    - The last component in IAM
+    -  Có nghĩa là bạn cung cấp quyền cho dịch vụ (chứ không phải người dùng) quyền để thực hiện các hành động trên tài nguyên của bạn
+         - Ví dụ : Khi dùng EC2 instance , cần tải file lên S3, bạn sẽ tạo 1 IAM Role cho EC2 với quyền "putObject" lên S3.
+    - Comoon Roles : 
+       - EC2 Instance roles
+       -  Lambda Function Roles
+       -  Roles for CloudFormation
+  
+   4.15 IAM Roles Hands On
+   
+   4.16 IAM Security Tools
+    - IAM Credentials Report (account -level) : lists all your account's users and status of their credentials
+    - IAM Access Advisor (user-level) : show service permissions grants to a  user and when were last accessed
+        - You can use it to revise(edit) your policies . 
+        - User root thường dùng nó để cho các previlige tới IAM user
+    
+   
+   4.17 IAM Security Tools Hands On
+   
+   4.18 IAM Best Practices
+   - Don't use the root except account setup
+   - One physical user = One AWS user
+   - Create a strong password policy
+   - Use and enforce 
+   - create and use Role for service
+   - never share IAM users and Access Keys
+   
+   4.19 IAM Summary
+      ![[Pasted image 20240930155909.png]]
 
 
 
@@ -117,6 +161,45 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
 
 
 
+
+
+
+### 5. EC2 Fundamentals
+
+  5.1 AWS Budget Setup
+
+
+  5.1 EC2 Basics 
+    - EC2 is the most common
+    -  EC2 is infrastructure as a Service
+    -  It consists of capability of :
+        ![[Pasted image 20240930162823.png]]
+    - Knowing EC2 is fundamental to understand how the Cloud works
+    - EC2 sizing & configuration
+        - OS
+        - CPU 
+        - RAM
+        - How much storage space 
+            - Network - attached (EBS (vitual drives) EFS)
+            - Hardware (EC2 Instance Store)
+              [[Storage trong AWS]]
+        - Netword card : 
+        - Firewall rules : security group
+        - Bootstrap script (configure at first launch): EC2 User Data : kịch bản khởi động
+        - Can hands on more ,.....
+    - EC2 User Data 
+       - meaning launching commands when a machine starts
+       - installing update , installing software , .... anything you can think of
+       - EC2 User Data Scripts runs with the root user
+  5.1 Create an EC2 Instance with EC2 User Data to have a Website Hands On
+  5.1 EC2 Instance Types Basics
+  5.1 Security Groups & Classic Ports Overview
+  5.1 Security Groups Hands On
+  5.1 SSH Overview
+  5.1 How to SSH using Windows 10
+  5.1
+  5.1
+  5.1
 
 
 # References
