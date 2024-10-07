@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Learning",
+      "query": "path:\"4 - Indexs\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file: AWS",
+      "query": "path:\"3 - Tags\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -39,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.90625,
   "linkDistance": 343,
-  "scale": 0.09248815955110719,
+  "scale": 0.08112687280866866,
   "close": false
 }
