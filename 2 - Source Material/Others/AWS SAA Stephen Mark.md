@@ -169,7 +169,7 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
   5.1 AWS Budget Setup
 
 
-  5.1 EC2 Basics 
+  5.2 EC2 Basics 
     - EC2 is the most common
     -  EC2 is infrastructure as a Service
     -  It consists of capability of :
@@ -191,12 +191,47 @@ Tags: [[AWS]] [[Architect]] [[Learning]]
        - meaning launching commands when a machine starts
        - installing update , installing software , .... anything you can think of
        - EC2 User Data Scripts runs with the root user
-  5.1 Create an EC2 Instance with EC2 User Data to have a Website Hands On
-  5.1 EC2 Instance Types Basics
-  5.1 Security Groups & Classic Ports Overview
-  5.1 Security Groups Hands On
-  5.1 SSH Overview
-  5.1 How to SSH using Windows 10
+  5.3 Create an EC2 Instance with EC2 User Data to have a Website Hands On
+  
+  5.4 EC2 Instance Types Basics
+    - You can use many EC2 Instance Types for optimaze your use case
+    - Naming Convention : vd m5.2xlarge
+    - m : instance class
+    - 5 : generation
+    - 2xlarge : size within the instance class
+    - General Purpose : 
+    - Diversity
+     - Optimize money
+    - Type:
+     - Compute
+     -   Memory Optimized : Starting with R
+     - Storage Optimized : transaction , relational & NoSQL, Redis
+  
+  5.5 Security Groups & Classic Ports Overview
+   - Are the fundamental of network security in AWS
+   - control how traffic allow into or out of EC2 Intances
+   - Security groups only contain allow rules
+   - Security groups rules can reference by IP or by security groups
+   ![[Pasted image 20241007154013.png]]
+  - Deeper Dive
+     - Firewall on EC2 instance : Access to Port, IP, Inbound network, OutBound
+  - Good to Know :
+     - Can be attached to mutlpe instance
+     - time out - security group issue
+ - Classic Ports to know
+   - 22 = SSH
+   - 21 = FTP : uploads files into a file share
+   - 22 = SFTS : uploads file by using SSH
+   - 80 = HTTP
+   - 433 = HTTPS : secured websites
+   - 3389 = RDP : Remote Desktop Protocal : Windows instance
+     
+  
+
+  5.6 Security Groups Hands On
+  5.7 SSH Overview
+     - 
+  5.8 How to SSH using Windows 10
   5.1
   5.1
   5.1
