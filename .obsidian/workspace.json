@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "275b9f577d8bc362",
+        "id": "1ccd704d591b9da2",
         "type": "tabs",
         "children": [
           {
-            "id": "abf8be27825eac60",
+            "id": "9234f93a260d556d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Rest Assured.md",
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Rest Assured.md",
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Rest Assured.md",
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Rest Assured.md"
+                "file": "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md"
               }
             }
           },
@@ -139,7 +139,15 @@
             }
           },
           {
-            "id": "575be713ce7c7ce7",
+            "id": "f2180b33f883a6de",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c6f3d8ab904aa01",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -165,23 +173,26 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "abf8be27825eac60",
+  "active": "9234f93a260d556d",
   "lastOpenFiles": [
-    "3 - Tags/Java.md",
-    "6 - Main Notes/Rest Assured.md",
-    "3 - Tags/Testing.md",
-    "6 - Main Notes/Test Container trong Java SpringBoot.md",
-    "3 - Tags/Docker.md",
-    "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
-    "6 - Main Notes/Pasted image 20241005093813.png",
-    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
-    "AWS SAA Stephen Mark.pdf",
-    "6 - Main Notes/Storage trong AWS.md",
     "6 - Main Notes/Pasted image 20241003164248.png",
-    "3 - Tags/Storage.md",
+    "1 - Rough Notes/3 Oct.md",
+    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
+    "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
     "3 - Tags/Microservices.md",
+    "3 - Tags/Java.md",
     "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+    "6 - Main Notes/Storage trong AWS.md",
+    "6 - Main Notes/Untitled 1.md",
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+    "2 - Source Material/Books/Flow  Dòng chảy.md",
+    "6 - Main Notes/Untitled.md",
+    "1 - Rough Notes/Brief cho EXE101.md",
+    "3 - Tags/Storage.md",
     "2 - Source Material/Images/Pasted image 20240930162823.png",
+    "AWS SAA Stephen Mark.pdf",
     "2 - Source Material/Images/Pasted image 20240930155909.png",
     "2 - Source Material/Images/Pasted image 20240930142146.png",
     "2 - Source Material/Images/Pasted image 20240930141105.png",
@@ -189,29 +200,26 @@
     "2 - Source Material/Images/Pasted image 20240930133147.png",
     "2 - Source Material/Images/Pasted image 20240930132147.png",
     "2 - Source Material/Images/Pasted image 20240930132135.png",
-    "1 - Rough Notes/Power App với anh Huy Harrison.md",
-    "1 - Rough Notes/Brief cho EXE101.md",
-    "1 - Rough Notes/3 Oct.md",
+    "2 - Source Material/Images/Pasted image 20240930080453.png",
     "1 - Rough Notes/29 Sep.md",
+    "1 - Rough Notes/Power App với anh Huy Harrison.md",
+    "2 - Source Material/Images/Pasted image 20240928101207.png",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
+    "3 - Tags/Life Style.md",
+    "1 - Rough Notes/Untitled.md",
+    "1 - Rough Notes/21 Sep Power Automate Webinar.md",
+    "test",
     "2 - Source Material/Others/PRN212 Slide Course.md",
     "2 - Source Material/Others/Unity Slide Course.md",
-    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
-    "2 - Source Material/Others/link.md",
-    "3 - Tags/AWS.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "2 - Source Material/Books/Flow  Dòng chảy.md",
-    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
-    "3 - Tags/Life Style.md",
-    "1 - Rough Notes/21 Sep Power Automate Webinar.md",
-    "1 - Rough Notes/Untitled.md",
+    "1 - Rough Notes/20 Sep Webinar WeCommit.md",
+    "5 - Templates/Day Note.md",
+    "5 - Templates/Name Material.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
     "2 - Source Material/Podcasts",
     "2 - Source Material/Videos",
     "2 - Source Material/Books",
-    "2 - Source Material/Images",
-    "2 - Source Material/Others"
+    "2 - Source Material/Images"
   ]
 }

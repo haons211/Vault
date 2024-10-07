@@ -15,13 +15,5 @@ tags:  [[Java]] [[Learning]] [[Microservices]]
 Spring Cloud chủ yếu tập trung vào microservice , Dịch vụ quản lí cấu hình, vân vân
 Kafka : không đồng bộ
 API getway : sender request to service
-Keycloak : 
-grafana tempo for distribute tracing
-prometheus : for collect metric
-grafana for dashboard
-
-### Overview for every single service
-![[Pasted image 20241005093813.png]]
-
-
+Keycloak
 ......
