@@ -46,3 +46,10 @@ tags: [[Life Style]]
 >  Khi sự kiện đang diễn ra phù hợp với một kiểu sự kiện đã được biết trước đó, nó sẽ được nhận diện.
 
 [[15464-flow-dong-chay-thuviensach.vn.pdf#page=55&selection=3,62,5,10|15464-flow-dong-chay-thuviensach.vn, page 55]]
+
+
+> Lúc này, chúng ta cần phải xem xét mỗi khi sự chú ý mang một mẩu thông tin mới vào nhận thức thì có những gì theo sau.
+
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=63&selection=11,10,12,53|15464-flow-dong-chay-thuviensach.vn, page 63]]
+
+65

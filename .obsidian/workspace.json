@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8e461c8b49726a69",
+        "id": "603ad0fac0e3dfe1",
         "type": "tabs",
+        "dimension": 60.36585365853659,
         "children": [
           {
-            "id": "00ba82a07bd037e9",
+            "id": "1f8aee1362c622ff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fdb7ecc603e1b26f",
+        "type": "tabs",
+        "dimension": 39.63414634146341,
+        "children": [
+          {
+            "id": "ed44406cef7d7cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md"
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md"
               }
             }
           },
@@ -165,8 +184,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "00ba82a07bd037e9",
+  "active": "ed44406cef7d7cb2",
   "lastOpenFiles": [
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
+    "2 - Source Material/Books/Flow  Dòng chảy.md",
+    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "6 - Main Notes/Pasted image 20241007154013.png",
     "6 - Main Notes/Pasted image 20241007154007.png",
     "4 - Indexs/Learning.md",
@@ -174,7 +196,6 @@
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.3 MLN122.md",
     "3 - Tags/Learning.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
     "6 - Main Notes/Rest Assured.md",
     "3 - Tags/Java.md",
     "3 - Tags/Testing.md",
@@ -203,8 +224,6 @@
     "2 - Source Material/Others/Unity Slide Course.md",
     "2 - Source Material/Others/AWS SAA Stephen Mark.md",
     "2 - Source Material/Others/link.md",
-    "3 - Tags/AWS.md",
-    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
