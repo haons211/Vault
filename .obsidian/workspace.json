@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Spring Eureka Overview cho Fresher.md",
+                "file": "1 - Rough Notes/11 Oct.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 776.5
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Spring Eureka Overview cho Fresher.md",
+                "file": "1 - Rough Notes/11 Oct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Spring Eureka Overview cho Fresher.md",
+                "file": "1 - Rough Notes/11 Oct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Spring Eureka Overview cho Fresher.md"
+                "file": "1 - Rough Notes/11 Oct.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "464397d6f93636b3",
+            "id": "586b7c13ab184709",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -165,46 +165,47 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fa307633d9aedcc5",
+  "active": "e5381bf0f5ab0143",
   "lastOpenFiles": [
-    "2 - Source Material/Images/Pasted image 20241009233729.png",
-    "3 - Tags/Tech Stack.md",
+    "2 - Source Material/Images/Pasted image 20241011204519.png",
+    "1 - Rough Notes/11 Oct.md",
+    "2 - Source Material/Images/Pasted image 20241011212807.png",
+    "2 - Source Material/Images/Pasted image 20241011212152.png",
+    "2 - Source Material/Images/Pasted image 20241011211732.png",
+    "2 - Source Material/Images/Pasted image 20241011211711.png",
+    "2 - Source Material/Images/Pasted image 20241011211615.png",
+    "1 - Rough Notes/3 Oct.md",
+    "2 - Source Material/Images/Pasted image 20241011211042.png",
+    "6 - Main Notes/Rest Assured.md",
+    "2 - Source Material/Images/Pasted image 20241011205719.png",
+    "2 - Source Material/Images/Pasted image 20241011205318.png",
+    "2 - Source Material/Images/Pasted image 20241011204327.png",
+    "2 - Source Material/Images/Pasted image 20241011210810.png",
+    "1 - Rough Notes/9 Oct.md",
     "6 - Main Notes/Spring Eureka Overview cho Fresher.md",
+    "3 - Tags/Tech Stack.md",
     "3 - Tags/Spring Cloud.md",
     "AWS SAA Stephen Mark.pdf",
-    "1 - Rough Notes/9 Oct.md",
-    "2 - Source Material/Images/Pasted image 20241009231612.png",
-    "2 - Source Material/Images/Pasted image 20241009230450.png",
     "2 - Source Material/Books/Flow  Dòng chảy.md",
     "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
-    "2 - Source Material/Images/Pasted image 20241007154013.png",
-    "2 - Source Material/Images/Pasted image 20241007154007.png",
     "4 - Indexs/Learning.md",
     "4 - Indexs",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.3 MLN122.md",
     "3 - Tags/Learning.md",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "6 - Main Notes/Rest Assured.md",
     "3 - Tags/Java.md",
     "3 - Tags/Testing.md",
     "6 - Main Notes/Test Container trong Java SpringBoot.md",
     "3 - Tags/Docker.md",
     "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
-    "2 - Source Material/Images/Pasted image 20241005093813.png",
     "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
     "6 - Main Notes/Storage trong AWS.md",
-    "2 - Source Material/Images/Pasted image 20241003164248.png",
     "3 - Tags/Storage.md",
     "3 - Tags/Microservices.md",
     "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
-    "2 - Source Material/Images/Pasted image 20240930162823.png",
-    "2 - Source Material/Images/Pasted image 20240930155909.png",
-    "2 - Source Material/Images/Pasted image 20240930142146.png",
     "1 - Rough Notes/Power App với anh Huy Harrison.md",
     "1 - Rough Notes/Brief cho EXE101.md",
-    "1 - Rough Notes/3 Oct.md",
-    "1 - Rough Notes/29 Sep.md",
     "8 - FPT Learning Note/8.7 Fall 2024",
     "8 - FPT Learning Note",
     "7 - Daily Planner",
