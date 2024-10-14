@@ -4,19 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb0f3906d1bba6f",
+        "id": "5a98e1f97547b731",
         "type": "tabs",
+        "dimension": 38.605898123324394,
         "children": [
           {
-            "id": "bc03648763b8e9b9",
+            "id": "62c1c0b021b0eb09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Untitled 1.md",
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e7671efeca05602",
+        "type": "tabs",
+        "dimension": 61.3941018766756,
+        "children": [
+          {
+            "id": "76aa5318528bae0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf"
               }
             }
           }
@@ -70,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Untitled 1.md",
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Untitled 1.md",
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Untitled 1.md"
+                "file": "2 - Source Material/Books/Flow  Dòng chảy.md"
               }
             }
           },
@@ -139,7 +158,15 @@
             }
           },
           {
-            "id": "0d0e270f4a12f1a3",
+            "id": "f2180b33f883a6de",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0000d8c838eb35c9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -165,53 +192,52 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bc03648763b8e9b9",
+  "active": "62c1c0b021b0eb09",
   "lastOpenFiles": [
-    "6 - Main Notes/Pasted image 20241013212324.png",
-    "6 - Main Notes/Pasted image 20241013210903.png",
-    "2 - Source Material/Books/AchiveSource/system-design-interview-an-insiders-guide-volume-2.pdf",
-    "1 - Rough Notes/Untitled 1.md",
-    "2 - Source Material/Books/AchiveSource/15464-flow-dong-chay-thuviensach.vn.pdf",
-    "2 - Source Material/Books/AchiveSource/Bytebytego_Big_Archive_System_Design_2023.pdf",
-    "2 - Source Material/Books/AchiveSource/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
-    "2 - Source Material/Books/Bytebytego_Big_Archive_System_Design_2023.pdf",
-    "2 - Source Material/Books/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
+    "2 - Source Material/Books/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Books/Flow  Dòng chảy.md",
-    "2 - Source Material/Books/AchiveSource",
-    "1 - Rough Notes/Power App với anh Huy Harrison.md",
-    "1 - Rough Notes/Philosopy.md",
-    "1 - Rough Notes/Brief cho EXE101.md",
-    "1 - Rough Notes/9 Oct.md",
-    "1 - Rough Notes/21 Sep Power Automate Webinar.md",
-    "6 - Main Notes/Cách học Oracle của Trần Quốc Huy.md",
-    "3 - Tags/Oracle.md",
-    "6 - Main Notes/Untitled.md",
-    "1 - Rough Notes/1.md",
-    "2 - Source Material/Images/Pasted image 20241011204519.png",
-    "2 - Source Material/Images/Pasted image 20241011212807.png",
-    "2 - Source Material/Images/Pasted image 20241011212152.png",
-    "2 - Source Material/Images/Pasted image 20241011211732.png",
-    "2 - Source Material/Images/Pasted image 20241011211711.png",
-    "2 - Source Material/Images/Pasted image 20241011211615.png",
-    "1 - Rough Notes/3 Oct.md",
-    "2 - Source Material/Images/Pasted image 20241011211042.png",
-    "6 - Main Notes/Rest Assured.md",
-    "2 - Source Material/Images/Pasted image 20241011205719.png",
-    "2 - Source Material/Images/Pasted image 20241011205318.png",
-    "6 - Main Notes/Spring Eureka Overview cho Fresher.md",
-    "3 - Tags/Tech Stack.md",
-    "3 - Tags/Spring Cloud.md",
-    "AWS SAA Stephen Mark.pdf",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.1 SWD391.md",
-    "4 - Indexs/Learning.md",
-    "4 - Indexs",
-    "8 - FPT Learning Note/8.7 Fall 2024/8.7.3 MLN122.md",
-    "3 - Tags/Learning.md",
+    "6 - Main Notes/Pasted image 20241009094039.png",
     "8 - FPT Learning Note/8.7 Fall 2024/8.7.2 PRU212.md",
-    "3 - Tags/Java.md",
-    "3 - Tags/Testing.md",
+    "6 - Main Notes/Pasted image 20241007154013.png",
+    "6 - Main Notes/Pasted image 20241007154007.png",
+    "6 - Main Notes/Pasted image 20241005093813.png",
+    "6 - Main Notes/Pasted image 20241003164248.png",
+    "2 - Source Material/Others/AWS SAA Stephen Mark.md",
+    "2 - Source Material/Images/Pasted image 20241007154013.png",
+    "2 - Source Material/Images/Pasted image 20241007154007.png",
+    "1 - Rough Notes/20 Sep Webinar WeCommit.md",
+    "1 - Rough Notes/21 Sep Power Automate Webinar.md",
+    "1 - Rough Notes/22 Sep Prepare exam SWD.md",
+    "1 - Rough Notes/29 Sep.md",
+    "6 - Main Notes/Rest Assured.md",
+    "4 - Indexs",
+    "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
     "6 - Main Notes/Test Container trong Java SpringBoot.md",
+    "2 - Source Material/Images/Pasted image 20241005093813.png",
+    "3 - Tags/Testing.md",
     "3 - Tags/Docker.md",
-    "8 - FPT Learning Note/8.7 Fall 2024"
+    "2 - Source Material/Images/Pasted image 20241003164248.png",
+    "1 - Rough Notes/3 Oct.md",
+    "2 - Source Material/Videos/Nguyên lý 3+2 hiệu quả cho mọi database.md",
+    "3 - Tags/Microservices.md",
+    "3 - Tags/Java.md",
+    "2 - Source Material/Videos/Chi tiết công thức 5 3 2.md",
+    "6 - Main Notes/Storage trong AWS.md",
+    "6 - Main Notes/Untitled 1.md",
+    "6 - Main Notes/Untitled.md",
+    "1 - Rough Notes/Brief cho EXE101.md",
+    "3 - Tags/Storage.md",
+    "2 - Source Material/Images/Pasted image 20240930162823.png",
+    "AWS SAA Stephen Mark.pdf",
+    "1 - Rough Notes/Power App với anh Huy Harrison.md",
+    "3 - Tags/Life Style.md",
+    "test",
+    "8 - FPT Learning Note/8.7 Fall 2024",
+    "8 - FPT Learning Note",
+    "7 - Daily Planner",
+    "2 - Source Material/Podcasts",
+    "2 - Source Material/Videos",
+    "2 - Source Material/Books"
   ]
 }
