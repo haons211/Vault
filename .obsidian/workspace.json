@@ -11,9 +11,12 @@
             "id": "bc03648763b8e9b9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Books/AchiveSource/system-design-interview-an-insiders-guide-volume-2.pdf"
+                "file": "1 - Rough Notes/Untitled 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 200
   },
   "right": {
     "id": "931d436410a77d0c",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Books/AchiveSource/system-design-interview-an-insiders-guide-volume-2.pdf",
+                "file": "1 - Rough Notes/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Books/AchiveSource/system-design-interview-an-insiders-guide-volume-2.pdf",
+                "file": "1 - Rough Notes/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Books/AchiveSource/system-design-interview-an-insiders-guide-volume-2.pdf"
+                "file": "1 - Rough Notes/Untitled 1.md"
               }
             }
           },
@@ -136,7 +139,7 @@
             }
           },
           {
-            "id": "0eff912cab80263b",
+            "id": "0d0e270f4a12f1a3",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -164,8 +167,11 @@
   },
   "active": "bc03648763b8e9b9",
   "lastOpenFiles": [
-    "2 - Source Material/Books/AchiveSource/15464-flow-dong-chay-thuviensach.vn.pdf",
+    "6 - Main Notes/Pasted image 20241013212324.png",
+    "6 - Main Notes/Pasted image 20241013210903.png",
     "2 - Source Material/Books/AchiveSource/system-design-interview-an-insiders-guide-volume-2.pdf",
+    "1 - Rough Notes/Untitled 1.md",
+    "2 - Source Material/Books/AchiveSource/15464-flow-dong-chay-thuviensach.vn.pdf",
     "2 - Source Material/Books/AchiveSource/Bytebytego_Big_Archive_System_Design_2023.pdf",
     "2 - Source Material/Books/AchiveSource/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
     "2 - Source Material/Books/Bytebytego_Big_Archive_System_Design_2023.pdf",
@@ -192,7 +198,6 @@
     "6 - Main Notes/Rest Assured.md",
     "2 - Source Material/Images/Pasted image 20241011205719.png",
     "2 - Source Material/Images/Pasted image 20241011205318.png",
-    "2 - Source Material/Images/Pasted image 20241011204327.png",
     "6 - Main Notes/Spring Eureka Overview cho Fresher.md",
     "3 - Tags/Tech Stack.md",
     "3 - Tags/Spring Cloud.md",
@@ -207,8 +212,6 @@
     "3 - Tags/Testing.md",
     "6 - Main Notes/Test Container trong Java SpringBoot.md",
     "3 - Tags/Docker.md",
-    "2 - Source Material/Videos/Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours.md",
-    "8 - FPT Learning Note/8.7 Fall 2024",
-    "8 - FPT Learning Note"
+    "8 - FPT Learning Note/8.7 Fall 2024"
   ]
 }
