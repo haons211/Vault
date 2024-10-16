@@ -1,4 +1,5 @@
-## Rought Notes
+[[Promt]] [[AI]]
+# Rought Notes
 Trích nhỏ khi promt :
 - Viết cho tôi tôi 1 hàm convert pdf sang ảnh, không giải thích gì thêm, chỉ đưa tôi code
 - Giải thích 1 dòng của đoạn code 
