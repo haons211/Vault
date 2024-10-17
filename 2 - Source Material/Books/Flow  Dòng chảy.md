@@ -52,4 +52,15 @@ tags: [[Life Style]]
 
 [[15464-flow-dong-chay-thuviensach.vn.pdf#page=63&selection=11,10,12,53|15464-flow-dong-chay-thuviensach.vn, page 63]]
 
-65
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=85&selection=21,4,23,75|15464-flow-dong-chay-thuviensach.vn, page 85]]
+Note: Các thời cơ hành động thường xảy ra khi có những điều sau : những kĩ năng thích hợp để nhận ra với hành động đó, hay là một tình huống mang tính cạnh tranh . Ví dụ khi nói đến kĩ năng thích hợp để nhận ra : Bày 1 ván cờ thì người kỳ thủ sẽ cảm thấy thích thú, nhưng người không biết luật thì không . Hay những đối với người leo núi, thì một núi đẹp, đó sẽ là niềm hạnh phúc, còn người bình thường thì không . Tiếp theo thì nói đến tình huống cạnh tranh, sức hấp dẫn to lớn đối với người chơi, đối thủ là kẻ thù cũng chính là người trợ giúp chúng tôi.
+
+
+> Các hoạt động mang lại sự thưởng thức thường là những hoạt động được thiết kế cho chính mục đích nà
+
+[[15464-flow-dong-chay-thuviensach.vn.pdf#page=87&selection=3,0,4,30|15464-flow-dong-chay-thuviensach.vn, page 87]]
+
+   - Ví dụ như các tác phẩm nghệ thuật hay trò chơi 
+   - 105
+
+
