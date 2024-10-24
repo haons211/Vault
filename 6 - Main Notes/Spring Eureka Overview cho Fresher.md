@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Learning]] [[Spring Cloud]] [[Java]]
+Tags:  [[Spring Cloud]] [[Java]] [[OpenSource]]
 
 # Spring Eureka Overview cho Fresher
 

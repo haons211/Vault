@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Microservices]]  [[Learning]] [[Java]] [[Tech Stack]]
+Tags: [[Microservices]]  [[Tech Stack]] [[OpenSource]] [[Zipkin]] [[Learning]]
 # Zipkin là gì?
 
 Zipkin là một hệ thống theo dõi phân tán (distributed tracing system) được thiết kế để thu thập, lưu trữ và phân tích dữ liệu theo dõi các yêu cầu trong một ứng dụng hoặc dịch vụ phức tạp. Nó giúp các nhà phát triển và kỹ sư DevOps theo dõi và phân tích hiệu suất của ứng dụng, phát hiện và xử lý các vấn đề, cũng như tối ưu hóa hiệu suất hệ thống.
